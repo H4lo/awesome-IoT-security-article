@@ -91,6 +91,10 @@ https://github.com/wudipjq/my_vuln/tree/main/ARRIS
 
 https://github.com/Cossack9989/Vulns/tree/master/IoT
 
+# 车联网安全
+https://mp.weixin.qq.com/s/0grR0FRCMoWvsGJAGLTfUg
+
+
 # 其他
 [Hardware 其他 Embedded Systems: A little early effort in security can return a huge payoff – NCC Group Research](https://research.nccgroup.com/2022/02/22/hardware-embedded-systems-a-little-early-effort-in-security-can-return-a-huge-payoff/)
 
