@@ -82,6 +82,8 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+https://mp.weixin.qq.com/s/emvk8liLb4MmWpE9L_MkZA
+
 [KUKA KR C4 | CISA](https://www.cisa.gov/uscert/ics/advisories/icsa-21-208-01)
 
 [Technical Advisory – Multiple Vulnerabilities in U-Boot (CVE-2022-30790, CVE-2022-30552) – NCC Group Research](https://research.nccgroup.com/2022/06/03/technical-advisory-multiple-vulnerabilities-in-u-boot-cve-2022-30790-cve-2022-30552/)
