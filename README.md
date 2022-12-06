@@ -36,6 +36,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a
+
 https://mp.weixin.qq.com/s/efrcXS_uiXp0LzUaaEJ-MA
 
 [Netgear Nighthawk r7000p aws_json Unauthenticated Double Stack Overflow Vulnerability](https://hdwsec.fr/blog/20221109-netgear/)
