@@ -11,6 +11,8 @@
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 ## 摄像头漏洞分析
+[A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
+
 ## 智能家居漏洞分析
 ## 嵌入式/物联网设备漏洞分析
 
