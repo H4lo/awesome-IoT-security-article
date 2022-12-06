@@ -82,6 +82,5 @@ https://github.com/Cossack9989/Vulns/tree/master/IoT
 # 其他
 [Hardware 其他 Embedded Systems: A little early effort in security can return a huge payoff – NCC Group Research](https://research.nccgroup.com/2022/02/22/hardware-embedded-systems-a-little-early-effort-in-security-can-return-a-huge-payoff/)
 
-
 https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
 
