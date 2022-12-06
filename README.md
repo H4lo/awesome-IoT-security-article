@@ -60,6 +60,8 @@ http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 
 # 无线电安全
 # 硬件安全
+https://mp.weixin.qq.com/s/K0SXMVVdmkAdZyrNnCorBw
+
 https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29
 
 https://mp.weixin.qq.com/s/G-Aas9ZFjEfUN6gj2hwusw
