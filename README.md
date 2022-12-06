@@ -24,9 +24,6 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # CTF
 # 安全报道
 # 其他
-[百度一下，你就知道](http://www.baidu.com)
-
-https://aaaa
 
 https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
 
