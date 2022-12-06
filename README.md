@@ -12,6 +12,8 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[CYS4 | Blog](https://blog.cys4.com/)
+
 [Cymetrics Tech Blog](https://tech-blog.cymetrics.io/en/)
 
 [Page non trouvÃ©e](https://www.synacktiv.com/publications%3Ffield_tags_target_id%3D3.html)
