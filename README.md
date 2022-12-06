@@ -58,6 +58,8 @@ http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 
 # 无线电安全
 # 硬件安全
+https://mp.weixin.qq.com/s/G-Aas9ZFjEfUN6gj2hwusw
+
 # 模糊测试
 
 # 工具使用
