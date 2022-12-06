@@ -116,6 +116,8 @@ https://github.com/binarly-io/Research_Publications/blob/main/OffensiveCon_2022/
 
 # CTF
 # 安全报道
+https://mp.weixin.qq.com/s/GoYc5SA7cbNIrf2iRMKKSw
+
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 # 开源安全项目
