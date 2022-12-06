@@ -40,6 +40,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Unauthenticated Remote Code Execution in a Wide Range of DrayTek Vigor Routers](https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/rce-in-dratyek-routers.html)
+
 https://mp.weixin.qq.com/s/p5JH8elwd0ze4f8h8xTgiA
 
 [Blind exploits to rule WatchGuard firewalls](https://www.ambionics.io/blog/hacking-watchguard-firewalls)
