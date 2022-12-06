@@ -25,10 +25,16 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # 安全会议
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 
+https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
+
 ## 国内安全会议
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 
+https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
+
 ## 国外安全会议
+https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
+
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 
 # CTF
