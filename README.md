@@ -51,6 +51,8 @@ https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 # 会议
 ## 国内会议
 ## 国外会议
+https://github.com/binarly-io/Research_Publications/blob/main/OffensiveCon_2022/UEFI Firmware Vulns Past, Present and Future.pdf
+
 
 # CTF
 # 安全报道
