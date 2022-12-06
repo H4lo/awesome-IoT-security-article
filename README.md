@@ -135,6 +135,8 @@ https://mp.weixin.qq.com/s/GoYc5SA7cbNIrf2iRMKKSw
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 # 开源安全项目
+https://github.com/shijin0925/IOT/blob/master/TOTOLINK A3100R/8.md
+
 https://github.com/aaronsvk/CVE-2022-30075
 
 https://github.com/airbus-seclab/AutoResolv
