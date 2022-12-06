@@ -43,6 +43,8 @@ http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 # 模糊测试
 
 # 工具使用
+https://mp.weixin.qq.com/s/DZ2Nd5sIjWOuAGwLzBEQGQ
+
 https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # 安全论文
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
