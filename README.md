@@ -34,6 +34,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://mp.weixin.qq.com/s/efrcXS_uiXp0LzUaaEJ-MA
+
 [Netgear Nighthawk r7000p aws_json Unauthenticated Double Stack Overflow Vulnerability](https://hdwsec.fr/blog/20221109-netgear/)
 
 [Relyze Software Limited - Advanced Software Analysis: CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
