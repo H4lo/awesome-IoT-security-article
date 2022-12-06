@@ -97,6 +97,8 @@ https://github.com/binarly-io/Research_Publications/blob/main/OffensiveCon_2022/
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 # 开源安全项目
+https://github.com/airbus-seclab/AutoResolv
+
 https://github.com/PortSwigger/http-request-smuggler
 
 https://github.com/Le0nsec/SecCrawler
