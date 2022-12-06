@@ -8,6 +8,8 @@
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[SSD Advisory – NETGEAR DGND3700v2 PreAuth Root Access - SSD Secure Disclosure](https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/)
+
 [Reverse Engineering a Netgear Nday | StarkeBlog](https://nstarke.github.io/netgear/nday/2022/03/13/reverse-engineering-a-netgear-nday.html)
 
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
