@@ -15,6 +15,8 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 ## 嵌入式/物联网设备漏洞分析
 
 # 固件分析
+http://xdxd.love/2015/08/24/逆向路由器固件之解包/
+
 # 无线电安全
 # 硬件安全
 # 模糊测试
@@ -23,9 +25,6 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # 安全论文
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
-
-https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
-
 # 会议
 ## 国内会议
 ## 国外会议
