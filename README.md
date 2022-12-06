@@ -3,6 +3,8 @@
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
 # 安全教程
+https://mp.weixin.qq.com/s/JT_HCfSS7bpgutk3v2ApNQ
+
 https://mp.weixin.qq.com/s/7cdt5lCmU5ufucUasaKVZA
 
 https://www.s3.eurecom.fr/docs/usenixsec22_arbiter.pdf
