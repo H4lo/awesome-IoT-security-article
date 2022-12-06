@@ -61,6 +61,8 @@ https://mp.weixin.qq.com/s/DZ2Nd5sIjWOuAGwLzBEQGQ
 
 https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # 安全论文
+https://mp.weixin.qq.com/s/Q2OfKSDsv3-4zdlW3tkgxg
+
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 # 会议
 ## 国内会议
