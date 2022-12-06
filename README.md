@@ -33,6 +33,9 @@ https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 # 安全报道
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
+# 开源安全项目
+https://github.com/Cossack9989/Vulns/tree/master/IoT
+
 # 其他
 
 https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
