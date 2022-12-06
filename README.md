@@ -12,6 +12,8 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[James Kettle Research Overview](https://skeletonscribe.net/)
+
 [Flatt Security Blog](https://blog.flatt.tech/)
 
 [安全客 - 安全资讯平台](http://anquanke.com)
