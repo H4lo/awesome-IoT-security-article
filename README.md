@@ -20,7 +20,9 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
-[UFA-通用固件分析系统](https://ufa.360.net/home)
+[UFA-通用固件分析
+[Zyxel firmware extraction and password analysis - hn security](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
+系统](https://ufa.360.net/home)
 
 [unblob - extract everything!](https://unblob.org/)
 
@@ -92,6 +94,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Zyxel firmware extraction and password analysis - hn security](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
+
 https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
 
 [对某webvpn系统加解密分析 - 先知社区](https://xz.aliyun.com/t/11007)
