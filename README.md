@@ -64,6 +64,8 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 ## 智能家居漏洞分析
 ## 嵌入式/物联网设备漏洞分析
+[Zero Day Initiative — Announcing Pwn2Own Toronto 2022 and Introducing the SOHO Smashup!](https://www.zerodayinitiative.com/blog/2022/8/29/announcing-pwn2own-toronto-2022-and-introducing-the-soho-smashup)
+
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
@@ -120,6 +122,8 @@ https://github.com/Cossack9989/Vulns/tree/master/IoT
 # 车联网安全
 https://mp.weixin.qq.com/s/0grR0FRCMoWvsGJAGLTfUg
 
+
+# 漏洞情报库
 
 # 其他
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
