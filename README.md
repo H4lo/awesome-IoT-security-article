@@ -18,6 +18,8 @@
 # 无线电安全
 # 硬件安全
 # 模糊测试
+[百度一下，你就知道](http://www.baidu.com)
+
 # 工具使用
 https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 
