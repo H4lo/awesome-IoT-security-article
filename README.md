@@ -3,6 +3,8 @@
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
 # 安全教程
+https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面的安全漏洞，
+
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
