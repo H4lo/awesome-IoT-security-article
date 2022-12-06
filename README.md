@@ -12,8 +12,9 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 ## 网络设备漏洞分析
 ## 摄像头漏洞分析
 ## 智能家居漏洞分析
-## 其他
+## 漏洞分析-其他
 https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
+
 
 # 固件分析
 # 无线电安全
