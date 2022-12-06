@@ -117,6 +117,8 @@ https://mp.weixin.qq.com/s/G-Aas9ZFjEfUN6gj2hwusw
 # 模糊测试
 
 # 工具使用
+https://chat.openai.com/chat
+
 https://mp.weixin.qq.com/s/DZ2Nd5sIjWOuAGwLzBEQGQ
 
 https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
@@ -168,12 +170,19 @@ https://mp.weixin.qq.com/s/0grR0FRCMoWvsGJAGLTfUg
 # 漏洞情报库
 
 National Vulnerability Database（NVD）：https://nvd.nist.gov/
+
 Symantec：https://www.symantec.com/security-center/vulnerability-management
+
 Microsoft：https://technet.microsoft.com/en-us/security/
+
 Tenable：https://www.tenable.com/
+
 Rapid7：https://www.rapid7.com/
+
 Zerodium：https://zerodium.com/
+
 Bugtraq：https://www.securityfocus.com/vulnerabilities
+
 
 # 其他
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
