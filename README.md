@@ -15,8 +15,6 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 ## 其他
 https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
 
-https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
-
 # 固件分析
 # 无线电安全
 # 硬件安全
@@ -31,7 +29,4 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # 安全报道
 # 其他
 https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
-
-https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
-
 
