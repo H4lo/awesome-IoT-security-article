@@ -66,6 +66,8 @@ https://mp.weixin.qq.com/s/efrcXS_uiXp0LzUaaEJ-MA
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 ## 摄像头漏洞分析
+https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
+
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 智能家居漏洞分析
