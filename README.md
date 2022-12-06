@@ -28,6 +28,8 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 ## 国外安全会议
 # CTF
 # 安全报道
+https://mp.weixin.qq.com/s/TAZTvR_C4fGJOJQRgISm8w
+
 # 其他
 
 https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
