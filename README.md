@@ -38,6 +38,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Blind exploits to rule WatchGuard firewalls](https://www.ambionics.io/blog/hacking-watchguard-firewalls)
+
 [pfBlockerNG Unauth RCE Vulnerability - IHTeam Security Blog](https://www.ihteam.net/advisory/pfblockerng-unauth-rce-vulnerability/)
 
 https://infosecwriteups.com/complete-take-over-of-cisco-unified-communications-manager-due-consecutively-misconfigurations-2a1b5ce8bd9a
