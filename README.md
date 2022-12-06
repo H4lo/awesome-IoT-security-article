@@ -38,6 +38,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://mp.weixin.qq.com/s/p5JH8elwd0ze4f8h8xTgiA
+
 [Blind exploits to rule WatchGuard firewalls](https://www.ambionics.io/blog/hacking-watchguard-firewalls)
 
 [pfBlockerNG Unauth RCE Vulnerability - IHTeam Security Blog](https://www.ihteam.net/advisory/pfblockerng-unauth-rce-vulnerability/)
