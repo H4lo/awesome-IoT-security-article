@@ -56,6 +56,8 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 ## 智能家居漏洞分析
 ## 嵌入式/物联网设备漏洞分析
+https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
+
 
 # 固件分析
 https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
