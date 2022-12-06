@@ -3,6 +3,8 @@
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
 # 安全教程
+https://www.s3.eurecom.fr/docs/usenixsec22_arbiter.pdf
+
 [Parsing JSON is a Minefield](https://seriot.ch/projects/parsing_json.html)
 
 https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面的安全漏洞，
