@@ -22,14 +22,9 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 # 工具使用
 https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # 安全论文
-# 安全会议
-https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
-
-## 国内安全会议
-https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
-
-## 国外安全会议
-https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
+# 会议
+## 国内会议
+## 国外会议
 
 # CTF
 # 安全报道
