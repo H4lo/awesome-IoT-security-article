@@ -52,6 +52,8 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 ## 嵌入式/物联网设备漏洞分析
 
 # 固件分析
+https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
+
 [对某webvpn系统加解密分析 - 先知社区](https://xz.aliyun.com/t/11007)
 
 http://xdxd.love/2015/08/24/逆向路由器固件之解包/
