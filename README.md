@@ -8,6 +8,8 @@
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
+
 ## 摄像头漏洞分析
 ## 智能家居漏洞分析
 ## 嵌入式/物联网设备漏洞分析
@@ -19,19 +21,11 @@
 
 # 工具使用
 https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
-
-https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
-
-# 安全论文
 ## 国内安全会议
 ## 国外安全会议
 # CTF
 # 安全报道
-https://www.hexacon.fr/slides/hexacon_draytek_2022_final.pdf
-
-https://mp.weixin.qq.com/s/TAZTvR_C4fGJOJQRgISm8w
-
-https://mp.weixin.qq.com/s/TAZTvR_C4fGJOJQRgISm8w
+https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 # 其他
 
