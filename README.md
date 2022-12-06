@@ -71,6 +71,8 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 智能家居漏洞分析
+[nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
+
 ## 嵌入式/物联网设备漏洞分析
 [Zero Day Initiative — Announcing Pwn2Own Toronto 2022 and Introducing the SOHO Smashup!](https://www.zerodayinitiative.com/blog/2022/8/29/announcing-pwn2own-toronto-2022-and-introducing-the-soho-smashup)
 
@@ -134,6 +136,14 @@ https://mp.weixin.qq.com/s/0grR0FRCMoWvsGJAGLTfUg
 
 
 # 漏洞情报库
+
+National Vulnerability Database（NVD）：https://nvd.nist.gov/
+Symantec：https://www.symantec.com/security-center/vulnerability-management
+Microsoft：https://technet.microsoft.com/en-us/security/
+Tenable：https://www.tenable.com/
+Rapid7：https://www.rapid7.com/
+Zerodium：https://zerodium.com/
+Bugtraq：https://www.securityfocus.com/vulnerabilities
 
 # 其他
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
