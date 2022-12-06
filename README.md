@@ -13,6 +13,8 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 ## 摄像头漏洞分析
 ## 智能家居漏洞分析
 ## 其他
+https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
+
 # 固件分析
 # 无线电安全
 # 硬件安全
@@ -26,4 +28,6 @@ https://mp.weixin.qq.com/s/sBM-I6-ojYuJ9KyfXl87hg
 # CTF
 # 安全报道
 # 其他
+https://mp.weixin.qq.com/s/5LHUJjp2uceVFcX_RuxeSQ
+
 
