@@ -3,6 +3,8 @@
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
 # 安全教程
+https://github.com/KathanP19/HowToHunt
+
 # 安全论坛|博客
 [安全客 - 安全资讯平台](http://anquanke.com)
 
