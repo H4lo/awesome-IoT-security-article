@@ -8,6 +8,8 @@
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[From Patch To Exploit: CVE-2021-35029](https://blog.cys4.com/exploit/reverse-engineering/2022/04/18/From-Patch-To-Exploit_CVE-2021-35029.html)
+
 
 [SSD Advisory – NETGEAR DGND3700v2 PreAuth Root Access - SSD Secure Disclosure](https://ssd-disclosure.com/ssd-advisory-netgear-dgnd3700v2-preauth-root-access/)
 
