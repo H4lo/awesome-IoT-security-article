@@ -20,6 +20,12 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[talos](https://blog.talosintelligence.com/)
+
+[ssd-disclosure](https://ssd-disclosure.com/advisories-archive/)
+
+[nccgroup](https://research.nccgroup.com/)
+
 [UFA-通用固件分析
 [Zyxel firmware extraction and password analysis - hn security](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
 系统](https://ufa.360.net/home)
@@ -106,6 +112,8 @@ http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 
 # 无线电安全
 # 硬件安全
+https://mp.weixin.qq.com/s/oDMF3uVyJ_XR8h2rPakU3Q
+
 [pfBlockerNG Unauth RCE Vulnerability - IHTeam Security Blog](https://www.ihteam.net/advisory/pfblockerng-unauth-rce-vulnerability/)
 
 https://mp.weixin.qq.com/s/K0SXMVVdmkAdZyrNnCorBw
@@ -183,6 +191,9 @@ Zerodium：https://zerodium.com/
 
 Bugtraq：https://www.securityfocus.com/vulnerabilities
 
+vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
+
+synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
