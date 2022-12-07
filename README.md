@@ -50,6 +50,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[The Last Breath of Our Netgear RAX30 Bugs - A Tragic Tale before Pwn2Own Toronto 2022 | STAR Labs](https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/)
+
 [Horde Webmail - Remote Code Execution via Email](https://blog.sonarsource.com/horde-webmail-rce-via-email/)
 
 [Unauthenticated Remote Code Execution in a Wide Range of DrayTek Vigor Routers](https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/rce-in-dratyek-routers.html)
