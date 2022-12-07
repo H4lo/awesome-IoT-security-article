@@ -52,7 +52,6 @@ https://github.com/KathanP19/HowToHunt
 ## 网络设备漏洞分析
 [Cool vulns don't live long - Netgear and Pwn2Own](https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html)
 
-
 [The Last Breath of Our Netgear RAX30 Bugs - A Tragic Tale before Pwn2Own Toronto 2022 | STAR Labs](https://starlabs.sg/blog/2022/12-the-last-breath-of-our-netgear-rax30-bugs-a-tragic-tale-before-pwn2own-toronto-2022/)
 
 [Horde Webmail - Remote Code Execution via Email](https://blog.sonarsource.com/horde-webmail-rce-via-email/)
