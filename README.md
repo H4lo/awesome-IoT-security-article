@@ -152,6 +152,8 @@ https://github.com/binarly-io/Research_Publications/blob/main/OffensiveCon_2022/
 
 # CTF
 # 安全报道
+[Ping bug potentially allows remote hack of FreeBSD systemsSecurity Affairs](https://securityaffairs.co/wordpress/139300/hacking/cve-2022-23093-freebsd-systems-flaw.html)
+
 https://mp.weixin.qq.com/s/Y-_1SEHSDBgWEEOD0dJu6g
 
 https://mp.weixin.qq.com/s/GoYc5SA7cbNIrf2iRMKKSw
