@@ -182,6 +182,8 @@ https://github.com/wudipjq/my_vuln/tree/main/ARRIS
 https://github.com/Cossack9989/Vulns/tree/master/IoT
 
 # 车联网安全
+[Bug in Honda, Nissan, Toyota Cars App Let Hackers Start The Car Remotely](https://cybersecuritynews.com/vulnerability-in-honda-nissan-toyota-cars-app/)
+
 https://mp.weixin.qq.com/s/bx-Rtw1kkSb56iiaUpcqNQ
 
 https://mp.weixin.qq.com/s/0grR0FRCMoWvsGJAGLTfUg
