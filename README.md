@@ -115,6 +115,8 @@ https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
 http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 
 # 无线电安全
+[Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
+
 # 硬件安全
 https://mp.weixin.qq.com/s/oDMF3uVyJ_XR8h2rPakU3Q
 
