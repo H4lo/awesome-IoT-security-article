@@ -161,6 +161,8 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 # 开源安全项目
 https://github.com/romainthomas/reverse-engineering-workshop
 
+https://github.com/romainthomas/reverse-engineering-workshop
+
 https://github.com/Accenture/VulFi
 
 https://github.com/shijin0925/IOT/blob/master/TOTOLINK A3100R/8.md
