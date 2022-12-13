@@ -89,6 +89,8 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 智能家居漏洞分析
+https://mp.weixin.qq.com/s/WkXbI5lHM2LYnSCMuQAdbA
+
 https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
