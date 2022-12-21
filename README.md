@@ -2,7 +2,11 @@
 - [安全教程](#安全教程)
 - [安全论坛|博客](#安全论坛博客)
 - [漏洞分析](#漏洞分析)
-  - [网络设备漏洞分析](#网络设备漏洞分析)
+  - [网络设备漏洞分析
+[Error](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
+](#网络设备漏洞分析
+[Error](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
+)
   - [摄像头漏洞分析](#摄像头漏洞分析)
   - [智能家居漏洞分析](#智能家居漏洞分析)
   - [嵌入式/物联网设备漏洞分析](#嵌入式物联网设备漏洞分析)
@@ -75,6 +79,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Error](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
+
 [CVE-2022-45313: Mikrotik RouterOs flaw can lead to execute arbitrary code](https://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/)
 
 [Cool vulns don't live long - Netgear and Pwn2Own](https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html)
