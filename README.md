@@ -2,11 +2,7 @@
 - [安全教程](#安全教程)
 - [安全论坛|博客](#安全论坛博客)
 - [漏洞分析](#漏洞分析)
-  - [网络设备漏洞分析
-[Error](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
-](#网络设备漏洞分析
-[Error](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
-)
+  - [网络设备漏洞分析](#网络设备漏洞分析)
   - [摄像头漏洞分析](#摄像头漏洞分析)
   - [智能家居漏洞分析](#智能家居漏洞分析)
   - [嵌入式/物联网设备漏洞分析](#嵌入式物联网设备漏洞分析)
@@ -79,7 +75,7 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
-[Error](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
+[directory-ttraversal-vulnerability-in-huawei-hg255s-products](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
 
 [CVE-2022-45313: Mikrotik RouterOs flaw can lead to execute arbitrary code](https://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/)
 
@@ -141,6 +137,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Shielder - Reversing embedded device bootloader (U-Boot) - p.1](https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/)
+
 [Zyxel firmware extraction and password analysis - hn security](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
 
 https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
