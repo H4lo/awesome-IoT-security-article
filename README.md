@@ -2,7 +2,11 @@
 - [安全教程](#安全教程)
 - [安全论坛|博客](#安全论坛博客)
 - [漏洞分析](#漏洞分析)
-  - [网络设备漏洞分析](#网络设备漏洞分析)
+  - [网络设备漏洞分析
+https://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md
+](#网络设备漏洞分析
+https://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md
+)
   - [摄像头漏洞分析](#摄像头漏洞分析)
   - [智能家居漏洞分析](#智能家居漏洞分析)
   - [嵌入式/物联网设备漏洞分析](#嵌入式物联网设备漏洞分析)
@@ -75,6 +79,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md
+
 [directory-ttraversal-vulnerability-in-huawei-hg255s-products](https://infosecwriteups.com/directory-ttraversal-vulnerability-in-huawei-hg255s-products-dce941a1d015)
 
 [CVE-2022-45313: Mikrotik RouterOs flaw can lead to execute arbitrary code](https://securityonline.info/cve-2022-45313-mikrotik-routeros-flaw-can-lead-to-execute-arbitrary-code/)
