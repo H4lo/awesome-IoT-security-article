@@ -137,6 +137,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.2/
+
 [Shielder - Reversing embedded device bootloader (U-Boot) - p.1](https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/)
 
 [Zyxel firmware extraction and password analysis - hn security](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
