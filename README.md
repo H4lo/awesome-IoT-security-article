@@ -28,6 +28,8 @@
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
 # 安全教程
+[Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
+
 [ä½¿ç¨Binary Ninjaè¿è¡IoTè®¾å¤æ¼æ´ææ | äº¬ä¸æ¢ç´¢ç ç©¶é¢ä¿¡æ¯å®å¨å®éªå®¤](https://dawnslab.jd.com/binaryninja1-zh-cn/)
 
 https://forum.defcon.org/node/241835, https://github.com/infobyte/cve-2022-27255
