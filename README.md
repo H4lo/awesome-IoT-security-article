@@ -75,6 +75,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://mp.weixin.qq.com/s/js8Pg9xmkqRm0A0TF7pVXQ
+
 https://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md
 
 https://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md
