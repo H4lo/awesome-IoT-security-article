@@ -200,6 +200,8 @@ https://github.com/binarly-io/Research_Publications/blob/main/OffensiveCon_2022/
 
 
 # CTF
+https://www.reddit.com/r/ReverseEngineering/comments/101iozj/reverse_engineering_and_exploiting_an_iot_bug/
+
 # 安全报道
 [Ping bug potentially allows remote hack of FreeBSD systemsSecurity Affairs](https://securityaffairs.co/wordpress/139300/hacking/cve-2022-23093-freebsd-systems-flaw.html)
 
