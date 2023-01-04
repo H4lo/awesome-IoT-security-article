@@ -165,6 +165,8 @@ http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+https://mp.weixin.qq.com/s/XxzANNCKwvVmrq2eOihyTw
+
 [Data exfiltration using a COVID-bit attack | Kaspersky official blog](https://www.kaspersky.co.uk/blog/covid-bit-attack/25340/?reseller=gb_kdaily-social_acq_ona_smm__all_b2c_some_sma_______)
 
 https://mp.weixin.qq.com/s/oDMF3uVyJ_XR8h2rPakU3Q
