@@ -147,6 +147,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[LinkSys EA6100 AC1200 - Part 1 - PCB reversing](https://0x434b.dev/linksys-ea6100_pt1/)
+
 [DualShock4 Reverse Engineering - Part 1](https://blog.the.al/2023/01/01/ds4-reverse-engineering.html)
 
 https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.2/
