@@ -263,9 +263,13 @@ vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
 synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
+https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
+
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 [Hardware 其他
+https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
+
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
  Embedded Systems: A little early effort in security can return a huge payoff – NCC Group Research](https://research.nccgroup.com/2022/02/22/hardware-embedded-systems-a-little-early-effort-in-security-can-return-a-huge-payoff/)
 
