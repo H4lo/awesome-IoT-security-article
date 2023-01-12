@@ -77,6 +77,8 @@ https://github.com/KathanP19/HowToHunt
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Vulnerability Spotlight: Asus router access, information disclosure, denial of service vulnerabilities discovered](https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered)
+
 https://mp.weixin.qq.com/s/js8Pg9xmkqRm0A0TF7pVXQ
 
 https://github.com/scarvell/advisories/blob/main/2022_netcomm_nf20mesh_unauth_rce.md
