@@ -135,6 +135,8 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[考勤机安全分析报告 - FreeBuf网络安全行业门户](https://www.freebuf.com/articles/paper/354674.html)
+
 https://github.com/blasty/lexmark
 
 https://mp.weixin.qq.com/s/emvk8liLb4MmWpE9L_MkZA
