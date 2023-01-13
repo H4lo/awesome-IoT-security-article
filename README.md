@@ -153,6 +153,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Reverse Engineering BLE Devices — Reverse Engineering BLE Devices  documentation](https://reverse-engineering-ble-devices.readthedocs.io/en/latest/)
+
 https://mp.weixin.qq.com/s/16V1JLcLaakCcMHjzOBbRA
 
 [LinkSys EA6100 AC1200 - Part 1 - PCB reversing](https://0x434b.dev/linksys-ea6100_pt1/)
