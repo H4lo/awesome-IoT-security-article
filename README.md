@@ -253,6 +253,8 @@ https://mp.weixin.qq.com/s/0grR0FRCMoWvsGJAGLTfUg
 
 
 # 漏洞情报库
+[💀 Sploitus | Exploit  漏洞情报库 Hacktool Search Engine](https://sploitus.com/)
+
 
 National Vulnerability Database（NVD）：https://nvd.nist.gov/
 
