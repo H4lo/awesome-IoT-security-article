@@ -30,7 +30,7 @@
 # 安全教程
 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
 
-[ä½¿ç¨Binary Ninjaè¿è¡IoTè®¾å¤æ¼æ´ææ | äº¬ä¸æ¢ç´¢ç ç©¶é¢ä¿¡æ¯å®å¨å®éªå®¤](https://dawnslab.jd.com/binaryninja1-zh-cn/)
+[使用Binary Ninja进行IoT设备漏洞挖掘](https://dawnslab.jd.com/binaryninja1-zh-cn/)
 
 https://forum.defcon.org/node/241835, https://github.com/infobyte/cve-2022-27255
 
@@ -61,7 +61,7 @@ https://github.com/KathanP19/HowToHunt
 
 [2022看雪安全开发者峰会 - Hack Inn](https://www.hackinn.com/index.php/archives/808/)
 
-[IOTsec-Zoneç©èç½å®å¨ç¤¾åº](https://iotsec-zone.com/article?id=314)
+[IOTsec-Zone 安全社区](https://iotsec-zone.com/article?id=314)
 
 [CYS4 | Blog](https://blog.cys4.com/)
 
@@ -153,6 +153,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Dmitry.GR: Projects](https://dmitry.gr/?r=05.Projects)
+
 [Reverse Engineering BLE Devices — Reverse Engineering BLE Devices  documentation](https://reverse-engineering-ble-devices.readthedocs.io/en/latest/)
 
 https://mp.weixin.qq.com/s/16V1JLcLaakCcMHjzOBbRA
