@@ -201,6 +201,8 @@ https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Loc
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+[PS5 Hack: Keys incoming for the mysterious CP Box? - Wololo.net](https://wololo.net/2023/01/29/ps5-hack-keys-incoming-for-the-mysterious-cp-box/)
+
 [A journey into IoT – Chip identification, BUSSide, and I2C - hn security](https://security.humanativaspa.it/a-journey-into-iot-chip-identification-busside-and-i2c/)
 
 https://mp.weixin.qq.com/s/XxzANNCKwvVmrq2eOihyTw
