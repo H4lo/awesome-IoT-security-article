@@ -222,6 +222,8 @@ https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29
 https://mp.weixin.qq.com/s/G-Aas9ZFjEfUN6gj2hwusw
 
 # 模糊测试
+[How I fuzz and hack APIs?](https://rashahacks.com/how-i-fuzz-and-hack-api/)
+
 
 # 工具使用
 https://chat.openai.com/chat
