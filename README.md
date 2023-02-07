@@ -28,6 +28,8 @@
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
 # 安全教程
+[About the book - A Noob's Guide To ARM Exploitation](https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/)
+
 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
 
 [使用Binary Ninja进行IoT设备漏洞挖掘](https://dawnslab.jd.com/binaryninja1-zh-cn/)
