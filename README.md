@@ -79,6 +79,8 @@ https://github.com/KathanP19/HowToHunt
 ## 网络设备漏洞分析
 [CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
 
+[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
+
 [Vulnerability Spotlight: Asus router access, information disclosure, denial of service vulnerabilities discovered](https://blog.talosintelligence.com/vulnerability-spotlight-asus-router-access-information-disclosure-denial-of-service-vulnerabilities-discovered)
 
 https://mp.weixin.qq.com/s/js8Pg9xmkqRm0A0TF7pVXQ
