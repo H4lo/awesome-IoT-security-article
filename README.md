@@ -189,6 +189,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[ Zeus WPI | Reverse engineering an e-ink display ](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/)
+
 [Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router | cq674350529's blog](https://cq674350529.github.io/2023/02/10/Analyzing-an-Old-Netatalk-dsi-writeinit-Buffer-Overflow-Vulnerability-in-NETGEAR-Router)
 
 [Dmitry.GR: Projects](https://dmitry.gr/?r=05.Projects)
