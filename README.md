@@ -221,6 +221,8 @@ https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Loc
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+https://martinschwarzl.at/media/files/thesis_main.pdf
+
 [PCIe DMA Attack against a secured Jetson Nano (CVE-2022-21819) – The Good Penguin](https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/)
 
 https://raelize.com/upload/research/2017/2017_BlueHat-v17_KERNELFAULT-R00ting-the-Unexploitable-using-Hardware-Fault-Injection_CM_NT.pdf
