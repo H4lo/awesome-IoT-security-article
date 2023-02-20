@@ -51,6 +51,8 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+https://xz.aliyun.com/
+
 [unSafe.sh - 不安全](https://unsafe.sh/)
 
 [talos](https://blog.talosintelligence.com/)
