@@ -27,6 +27,8 @@
 
 收集一些与IoT安全有关的安全文章、教程、资料等url资源，供大家一起学习!
 
+- 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
+
 # 安全教程
 [About the book - A Noob's Guide To ARM Exploitation](https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/)
 
@@ -335,11 +337,15 @@ vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
 synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
+https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
+
 https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
 
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 [Hardware 其他
+https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
+
 https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
 
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
