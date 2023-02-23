@@ -321,6 +321,8 @@ https://github.com/wudipjq/my_vuln/tree/main/ARRIS
 https://github.com/Cossack9989/Vulns/tree/master/IoT
 
 # 车联网安全
+[Web Hackers vs. The Auto Industry: Critical Vulnerabilities in Ferrari, BMW, Rolls Royce, Porsche, and More | Sam Curry](https://samcurry.net/web-hackers-vs-the-auto-industry/)
+
 https://mp.weixin.qq.com/s/O1EfTtvmAc0e2H6DFlElYA
 
 https://mp.weixin.qq.com/s/pFf7hvan2Z9VOxGyuwIvmg
