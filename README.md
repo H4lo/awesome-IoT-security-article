@@ -201,6 +201,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[一种获取 FortiOS 权限的方法 | CataLpa's Home](https://wzt.ac.cn/2023/02/23/fortios_padding/)
+
 [Firmware key extraction by gaining EL3 - The Cave](https://blog.xilokar.info/firmware-key-extraction-by-gaining-el3.html?s=09)
 
 [ Zeus WPI | Reverse engineering an e-ink display ](https://zeus.ugent.be/blog/22-23/reverse_engineering_epaper/)
