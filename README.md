@@ -371,6 +371,8 @@ vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
 synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
+https://media.defcon.org/DEF CON 30/DEF CON 30 presentations/Daniel (dozer) Jensen - Hunting Bugs in The Tropics V1.0.pdf
+
 https://github.com/horizon3ai/CVE-2022-39952
 
 https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
@@ -380,6 +382,8 @@ https://github.com/infobyte/cve-2022-27255/blob/main/DEFCON/slides.pdf
 https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 [Hardware 其他
+https://media.defcon.org/DEF CON 30/DEF CON 30 presentations/Daniel (dozer) Jensen - Hunting Bugs in The Tropics V1.0.pdf
+
 https://github.com/horizon3ai/CVE-2022-39952
 
 https://mp.weixin.qq.com/s/ZpIreydFhKbaGtWjKK6wog
