@@ -87,6 +87,8 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://mp.weixin.qq.com/s/2joZwexIdVdgc5NL8W3J-A
+
 [Puckungfu: A NETGEAR WAN Command Injection – NCC Group Research](https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/)
 
 https://mp.weixin.qq.com/s/_CQ9jp6-a7wAcImjg8SouQ
