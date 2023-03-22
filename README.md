@@ -89,6 +89,8 @@ https://xz.aliyun.com/
 ## 网络设备漏洞分析
 [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 
+[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
+
 https://mp.weixin.qq.com/s/Hayfe1gxRl_Clk7L8DIEZg
 
 https://mp.weixin.qq.com/s/2joZwexIdVdgc5NL8W3J-A
