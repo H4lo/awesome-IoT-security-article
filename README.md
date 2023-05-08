@@ -263,6 +263,8 @@ https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Loc
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+https://mp.weixin.qq.com/s/HMMa44u-FtSRPxQ1R-73jw
+
 https://mp.weixin.qq.com/s/TsDWgCABWGCUMVUUK3f05A
 
 [Reverse engineering an EV charger](https://www.mnemonic.io/no/resources/blog/reverse-engineering-an-ev-charger/)
