@@ -1,4 +1,4 @@
-- [introduction](#introduction)
+- [Introduction](#introduction)
 - [安全教程](#安全教程)
 - [安全论坛|博客](#安全论坛博客)
 - [漏洞分析](#漏洞分析)
@@ -30,6 +30,8 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
+
 [About the book - A Noob's Guide To ARM Exploitation](https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/)
 
 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
@@ -95,12 +97,6 @@ https://xz.aliyun.com/
 
 [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 
-[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
-
-[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
-
-[Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
-
 https://mp.weixin.qq.com/s/Hayfe1gxRl_Clk7L8DIEZg
 
 https://mp.weixin.qq.com/s/2joZwexIdVdgc5NL8W3J-A
@@ -130,16 +126,6 @@ https://mp.weixin.qq.com/s/_CQ9jp6-a7wAcImjg8SouQ
 [CVE-2023-22374: F5 BIG-IP Format String Vulnerability | Rapid7 Blog](https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/)
 
 https://mp.weixin.qq.com/s/ie6ydNvxkFjJxmrpOTkcUA
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
-
-[CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
 
 [CVE-2023-0669 | AttackerKB](https://attackerkb.com/topics/mg883Nbeva/cve-2023-0669)
 
