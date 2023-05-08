@@ -30,6 +30,8 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew
+
 https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
 
 https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
