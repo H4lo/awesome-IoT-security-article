@@ -32,6 +32,8 @@
 # 安全教程
 https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
 
+https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
+
 [About the book - A Noob's Guide To ARM Exploitation](https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/)
 
 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
