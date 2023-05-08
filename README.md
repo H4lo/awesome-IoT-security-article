@@ -223,6 +223,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[DJI Mavic 3 Drone Firmware Analysis](https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis/)
+
 https://mp.weixin.qq.com/s/RUQKvzoWPks5Y2x6Ou7jCw
 
 [2020补天杯复盘：小米小爱音箱 后渗透利用公开 | Clang裁缝店](https://xuanxuanblingbling.github.io/iot/2022/09/16/mi/)
