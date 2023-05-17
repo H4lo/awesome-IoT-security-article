@@ -93,6 +93,8 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[NETGEAR Routers: A Playground for Hackers? | NCC Group Research Blog | Making the world safer and more secure](https://research.nccgroup.com/2023/05/15/netgear-routers-a-playground-for-hackers/)
+
 [Analysis of Pre-Auth RCE in Sophos Web Appliance (CVE-2023-1671) - Blog - VulnCheck](https://vulncheck.com/blog/cve-2023-1671-analysis)
 
 [Zero Day Initiative — CVE-2022-29844: A Classic Buffer Overflow on the Western Digital My Cloud Pro Series PR4100](https://www.zerodayinitiative.com/blog/2023/4/19/cve-2022-29844-a-classic-buffer-overflow-on-the-western-digital-my-cloud-pro-series-pr4100)
