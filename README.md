@@ -231,6 +231,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://mp.weixin.qq.com/s/BwQ7Ld7cxF9gxxnzxpp6xg
+
 [DJI Mavic 3 Drone Firmware Analysis](https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis/)
 
 https://mp.weixin.qq.com/s/RUQKvzoWPks5Y2x6Ou7jCw
