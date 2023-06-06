@@ -205,6 +205,8 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 
 [chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
 
+[chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
+
 [The printer goes brrrrr, again!](https://www.synacktiv.com/publications/the-printer-goes-brrrrr-again)
 
 https://mp.weixin.qq.com/s/UwsQH9nr1D4FzK2lhy_W2A
