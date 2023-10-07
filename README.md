@@ -93,6 +93,8 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Yet More Unauth Remote Command Execution Vulns in Firewalls - Sangfor Edition](https://labs.watchtowr.com/yet-more-unauth-remote-command-execution-vulns-in-firewalls-sangfor-edition/)
+
 [记一次全设备通杀未授权 RCE 的挖掘经历](https://paper.seebug.org/2071/#poc)
 
 [NETGEAR Routers: A Playground for Hackers? | NCC Group Research Blog | Making the world safer and more secure](https://research.nccgroup.com/2023/05/15/netgear-routers-a-playground-for-hackers/)
