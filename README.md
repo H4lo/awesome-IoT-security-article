@@ -241,6 +241,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[RTSP协议分析 - IOTsec-Zone](https://www.iotsec-zone.com/article/418)
+
 [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
 
 https://mp.weixin.qq.com/s/X6l_OfFZM6gPoZgL9n2QgA
