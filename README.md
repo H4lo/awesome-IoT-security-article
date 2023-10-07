@@ -93,6 +93,8 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
+
 [Yet More Unauth Remote Command Execution Vulns in Firewalls - Sangfor Edition](https://labs.watchtowr.com/yet-more-unauth-remote-command-execution-vulns-in-firewalls-sangfor-edition/)
 
 [记一次全设备通杀未授权 RCE 的挖掘经历](https://paper.seebug.org/2071/#poc)
