@@ -239,6 +239,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
+
 https://mp.weixin.qq.com/s/X6l_OfFZM6gPoZgL9n2QgA
 
 https://mp.weixin.qq.com/s/BwQ7Ld7cxF9gxxnzxpp6xg
