@@ -247,6 +247,8 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Hacking Brightway scooters: A case study – RoboCoffee](https://robocoffee.de/?p=436)
+
 [RTSP协议分析 - IOTsec-Zone](https://www.iotsec-zone.com/article/418)
 
 [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
