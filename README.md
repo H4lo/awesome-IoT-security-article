@@ -96,7 +96,7 @@ https://xz.aliyun.com/
 # 漏洞分析
 ## 网络设备漏洞分析
 [Pulling MikroTik into the Limelight — Margin Research](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
-- 摘要: 根据新的背景信息，我们可以对原始摘要进行修改。
+- 摘要: 这篇博客文章提供了REcon 2022会议上关于逆向工程MikroTik路由器的演讲的概述。它涵盖了关键知识，并介绍了研究过程中创建的工具，以了解MikroTik的内部情况。该文章旨在更新公开可用的MikroTik知识，并为MikroTik的概念和抽象提供速成课程。涵盖的主题包括MikroTik的RouterOS操作系统、绕过签名验证、MikroTik用于进程间通信的专有消息协议以及MikroTik设备的身份验证过程。该文章还介绍了针对运行v6固件的MikroTik设备的身份验证后越狱。文章进一步深入研究了MikroTik的消息协议的逆向工程、"Nova Message"在进程间通信中的作用、消息的序列化格式以及消息在进程之间的路由。文章还讨论了在RouterOS中使用组播和广播消息，并介绍了一种用于跟踪和可视化内部RouterOS消息的工具。此外，文章还探讨了MikroTik的身份验证方案，特别是使用椭圆曲线Diffie-Hellman协议生成共享密钥的方法。文章随后深入介绍了MikroTik的身份验证方案的细节，包括使用EC-SRP协议和与IEEE提交草案相比的实现差异。文章以关于越狱RouterOS的详细信息和在www二进制文件中发现的远程越狱的内容结束。文章还揭示了一种提升权限到超级管理员并在RouterOS v6设备上实现远程代码执行的方法。
 
 
 [Cisco IOS XE CVE-2023-20198: Deep Dive and POC – Horizon3.ai](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
