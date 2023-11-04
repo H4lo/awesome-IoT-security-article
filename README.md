@@ -3,9 +3,9 @@
 - [安全论坛|博客](#安全论坛博客)
 - [漏洞分析](#漏洞分析)
   - [网络设备漏洞分析](#网络设备漏洞分析)
-  - [](#)
-  - [](#-1)
-  - [](#-2)
+  - [摄像头漏洞分析](#摄像头漏洞分析)
+  - [智能家居漏洞分析](#智能家居漏洞分析)
+  - [嵌入式/物联网设备漏洞分析](#嵌入式物联网设备漏洞分析)
 - [固件分析](#固件分析)
 - [无线电安全](#无线电安全)
 - [硬件安全](#硬件安全)
@@ -13,8 +13,8 @@
 - [工具使用](#工具使用)
 - [安全论文](#安全论文)
 - [会议](#会议)
-  - [](#-3)
-  - [](#-4)
+  - [国内会议](#国内会议)
+  - [国外会议](#国外会议)
 - [CTF](#ctf)
 - [安全报道](#安全报道)
 - [开源安全项目](#开源安全项目)
@@ -30,7 +30,6 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
-
 https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew
 
 https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
@@ -99,12 +98,9 @@ https://xz.aliyun.com/
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 网络设备漏洞分析
-[Pulling MikroTik into the Limelight — Margin Research](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
-- 摘要: 这篇博客文章提供了REcon 2022会议上关于逆向工程MikroTik路由器的演讲的概述。它涵盖了关键知识，并介绍了研究过程中创建的工具，以了解MikroTik的内部情况。该文章旨在更新公开可用的MikroTik知识，并为MikroTik的概念和抽象提供速成课程。涵盖的主题包括MikroTik的RouterOS操作系统、绕过签名验证、MikroTik用于进程间通信的专有消息协议以及MikroTik设备的身份验证过程。该文章还介绍了针对运行v6固件的MikroTik设备的身份验证后越狱。文章进一步深入研究了MikroTik的消息协议的逆向工程、"Nova Message"在进程间通信中的作用、消息的序列化格式以及消息在进程之间的路由。文章还讨论了在RouterOS中使用组播和广播消息，并介绍了一种用于跟踪和可视化内部RouterOS消息的工具。此外，文章还探讨了MikroTik的身份验证方案，特别是使用椭圆曲线Diffie-Hellman协议生成共享密钥的方法。文章随后深入介绍了MikroTik的身份验证方案的细节，包括使用EC-SRP协议和与IEEE提交草案相比的实现差异。文章以关于越狱RouterOS的详细信息和在www二进制文件中发现的远程越狱的内容结束。文章还揭示了一种提升权限到超级管理员并在RouterOS v6设备上实现远程代码执行的方法。
-
 
 [Cisco IOS XE CVE-2023-20198: Deep Dive and POC – Horizon3.ai](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
-- 摘要: 这篇文章是对之前一篇文章的跟进，探讨了影响思科IOS XE的CVE-2023-20273和CVE-2023-20198的补丁，并确定了攻击者可能利用这些漏洞的一些途径。通过SECUINFRA FALCON TEAM的蜜罐，我们对这些漏洞有了更深入的了解。文章介绍了一个绕过认证的示例请求，以及如何利用该漏洞创建一个具有最高权限的用户。文章指出思科修复这个漏洞的方法有些不寻常，他们本应该修复路径解析漏洞，而不是添加一个新的头部。这让我们怀疑是否还有其他可以通过这种方法访问的隐藏端点。
+摘要: 这篇文章是对之前一篇文章的跟进，探讨了影响思科IOS XE的CVE-2023-20273和CVE-2023-20198的补丁，并确定了攻击者可能利用这些漏洞的一些途径。通过SECUINFRA FALCON TEAM的蜜罐，我们对这些漏洞有了更深入的了解。文章介绍了一个绕过认证的示例请求，以及如何利用该漏洞创建一个具有最高权限的用户。文章指出思科修复这个漏洞的方法有些不寻常，他们本应该修复路径解析漏洞，而不是添加一个新的头部。这让我们怀疑是否还有其他可以通过这种方法访问的隐藏端点。
 
 https://mp.weixin.qq.com/s/zJJHFjmLqCtcbahJYfoyaw
 
@@ -206,9 +202,6 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 ## 
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 摄像头漏洞分析
 [Exploiting: Buffer overflow in Xiongmai DVRs | ret2.me](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 
@@ -217,9 +210,6 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 智能家居漏洞分析
@@ -232,9 +222,6 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 嵌入式/物联网设备漏洞分析
@@ -383,14 +370,8 @@ https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 ## 
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 国内会议
 ## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 国外会议
