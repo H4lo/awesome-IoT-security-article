@@ -3,9 +3,9 @@
 - [安全论坛|博客](#安全论坛博客)
 - [漏洞分析](#漏洞分析)
   - [网络设备漏洞分析](#网络设备漏洞分析)
-  - [摄像头漏洞分析](#摄像头漏洞分析)
-  - [智能家居漏洞分析](#智能家居漏洞分析)
-  - [嵌入式/物联网设备漏洞分析](#嵌入式物联网设备漏洞分析)
+  - [](#)
+  - [](#-1)
+  - [](#-2)
 - [固件分析](#固件分析)
 - [无线电安全](#无线电安全)
 - [硬件安全](#硬件安全)
@@ -13,8 +13,8 @@
 - [工具使用](#工具使用)
 - [安全论文](#安全论文)
 - [会议](#会议)
-  - [国内会议](#国内会议)
-  - [国外会议](#国外会议)
+  - [](#-3)
+  - [](#-4)
 - [CTF](#ctf)
 - [安全报道](#安全报道)
 - [开源安全项目](#开源安全项目)
@@ -206,6 +206,9 @@ https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 ## 
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 摄像头漏洞分析
 [Exploiting: Buffer overflow in Xiongmai DVRs | ret2.me](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 
@@ -214,6 +217,9 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 智能家居漏洞分析
@@ -226,6 +232,9 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 嵌入式/物联网设备漏洞分析
@@ -374,8 +383,14 @@ https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 ## 
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 国内会议
 ## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 国外会议
