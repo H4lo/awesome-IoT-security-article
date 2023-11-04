@@ -30,8 +30,6 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
-heap-exploitation.dhavalkapil.com
-- 摘要: 摘要为空
 
 https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew
 
@@ -97,7 +95,10 @@ https://xz.aliyun.com/
 [安全客 - 安全资讯平台](http://anquanke.com)
 
 # 漏洞分析
-## 网络设备漏洞分析
+## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+网络设备漏洞分析
 [Pulling MikroTik into the Limelight — Margin Research](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
 - 摘要: 这篇博客文章提供了REcon 2022会议上关于逆向工程MikroTik路由器的演讲的概述。它涵盖了关键知识，并介绍了研究过程中创建的工具，以了解MikroTik的内部情况。该文章旨在更新公开可用的MikroTik知识，并为MikroTik的概念和抽象提供速成课程。涵盖的主题包括MikroTik的RouterOS操作系统、绕过签名验证、MikroTik用于进程间通信的专有消息协议以及MikroTik设备的身份验证过程。该文章还介绍了针对运行v6固件的MikroTik设备的身份验证后越狱。文章进一步深入研究了MikroTik的消息协议的逆向工程、"Nova Message"在进程间通信中的作用、消息的序列化格式以及消息在进程之间的路由。文章还讨论了在RouterOS中使用组播和广播消息，并介绍了一种用于跟踪和可视化内部RouterOS消息的工具。此外，文章还探讨了MikroTik的身份验证方案，特别是使用椭圆曲线Diffie-Hellman协议生成共享密钥的方法。文章随后深入介绍了MikroTik的身份验证方案的细节，包括使用EC-SRP协议和与IEEE提交草案相比的实现差异。文章以关于越狱RouterOS的详细信息和在www二进制文件中发现的远程越狱的内容结束。文章还揭示了一种提升权限到超级管理员并在RouterOS v6设备上实现远程代码执行的方法。
 
@@ -202,14 +203,20 @@ https://mp.weixin.qq.com/s/efrcXS_uiXp0LzUaaEJ-MA
 
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
-## 摄像头漏洞分析
+## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+摄像头漏洞分析
 [Exploiting: Buffer overflow in Xiongmai DVRs | ret2.me](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 
 https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
-## 智能家居漏洞分析
+## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+智能家居漏洞分析
 https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
 
 https://mp.weixin.qq.com/s/WkXbI5lHM2LYnSCMuQAdbA
@@ -218,7 +225,10 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
-## 嵌入式/物联网设备漏洞分析
+## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+嵌入式/物联网设备漏洞分析
 [Your printer is not your printer ! - Hacking Printers at Pwn2Own Part I | DEVCORE 戴夫寇爾](https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/)
 
 [chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
@@ -361,8 +371,14 @@ https://mp.weixin.qq.com/s/Q2OfKSDsv3-4zdlW3tkgxg
 
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 # 会议
-## 国内会议
-## 国外会议
+## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+国内会议
+## 
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+国外会议
 [WordPress › Error](https://conference.hitb.org/hitbsecconf2022sin/materials/D2 COMMSEC - Cracking Kyocera Printers - Yue Liu, Minghang Shen )
 
 [Page not found - HITBSecConf2023 - Amsterdam](https://conference.hitb.org/hitbsecconf2023ams/materials/D1T1 - Your Not So Home Office - Soho Hacking at Pwn2Own - McCaulay Hudson )
