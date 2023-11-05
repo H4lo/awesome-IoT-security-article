@@ -30,6 +30,9 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
+- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
+
 https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew
 
 https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
@@ -94,10 +97,12 @@ https://xz.aliyun.com/
 [安全客 - 安全资讯平台](http://anquanke.com)
 
 # 漏洞分析
-## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-网络设备漏洞分析
+## 网络设备漏洞分析
+https://github.com/ea/lytro_unlock
+- 摘要: 根据新的背景信息，我们可以对原始摘要进行完善。
+
+这个项目涉及到对Lytro光场相机进行逆向工程，并创建一个Python库，以解锁官方软件中不可用的额外功能。这些功能包括远程相机控制、实时视图流传输、调试控制台和自定义代码执行。Lytro相机虽然作为商业产品不成功，但其具有高倍数光学变焦等有趣的技术。目标是为潜在的创新用途提供对相机的完全软件控制。相机可以在eBay上以折扣价购买，并且使用该库不需要进行任何物理修改。然而，这样做有砖机和失去保修的风险。该项目受到了一个关于技术项目缺陷和失败的Twitter讨论串的启发。作者的目标是为Lytro相机实现类似网络摄像头的功能，如软件控制的变焦和对焦、按需拍照，以及可能的固件修改和实时视图/视频流传输。摘要还提供了相机硬件和固件分析的概述，包括发现了一个命令解释器代码，通过USB或WiFi可以访问广泛的命令和功能。此外，作者成功解锁了被锁定的串行控制台，通过计算并发送基于相机序列号的预期哈希值。作者进一步探索了相机的功能，包括WiFi设置、实时视图参数、手动控制和通过固件的命令shell执行命令。该项目提供了一个全面的命令列表及其描述，其中一些命令尚未完全实现。通过WiFi解锁相机的能力消除了对物理修改的需求，并允许探索内置shell。新的背景提供了一个可以通过Python库访问的其他命令和功能的列表，例如涂抹控制、减少暗斑点、ANR配置、播放命令以及不同相机功能的各种测试和配置。该项目还包括一个连接到相机的WiFi的shell脚本，解锁相机，并允许发送命令和接收输出。该项目展示了不同的功能，如镜头控制、变焦控制和拍照。它还提供了启用实时视图流传输的示例。相机的固件似乎支持Lua脚本，这是该项目的未来目标。总的来说，这个项目提供了一种经济实惠的方式来尝试光场相机，并欢迎他人的贡献和想法。
+
 
 [Cisco IOS XE CVE-2023-20198: Deep Dive and POC – Horizon3.ai](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
 摘要: 这篇文章是对之前一篇文章的跟进，探讨了影响思科IOS XE的CVE-2023-20273和CVE-2023-20198的补丁，并确定了攻击者可能利用这些漏洞的一些途径。通过SECUINFRA FALCON TEAM的蜜罐，我们对这些漏洞有了更深入的了解。文章介绍了一个绕过认证的示例请求，以及如何利用该漏洞创建一个具有最高权限的用户。文章指出思科修复这个漏洞的方法有些不寻常，他们本应该修复路径解析漏洞，而不是添加一个新的头部。这让我们怀疑是否还有其他可以通过这种方法访问的隐藏端点。
@@ -199,20 +204,17 @@ https://mp.weixin.qq.com/s/efrcXS_uiXp0LzUaaEJ-MA
 
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
-## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-摄像头漏洞分析
+## 摄像头漏洞分析
 [Exploiting: Buffer overflow in Xiongmai DVRs | ret2.me](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 
 https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
-## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-智能家居漏洞分析
+## 智能家居漏洞分析
+[Pulling MikroTik into the Limelight — Margin Research](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
+- 摘要: 这篇博客提供了关于逆向工程MikroTik路由器的概述，并介绍了研究过程中创建的工具。它涵盖了RouterOS操作系统、绕过签名验证、MikroTik的专有消息协议和认证过程等主题。该文章旨在更新关于MikroTik的公开可用知识，并提供有关其内部工作原理的速成课程，包括消息路由和多播和广播功能的使用。文章还讨论了使用工具跟踪内部RouterOS消息并可视化它们的方法。此外，文章还深入探讨了MikroTik路由器的认证方案，探索了椭圆曲线Diffie-Hellman（ECDH）和椭圆曲线安全远程协议（EC-SRP）等加密协议。分析了MikroTik对EC-SRP的IEEE提交草案的实现的差异，突出了MikroTik所做的修改。文章最后提到了实现Winbox和MAC Telnet协议的工具的可用性，并提供了有关EC-SRP协议和MikroTik的投影空间计算的进一步细节。文章还讨论了使用精心制作的消息和ROP链在RouterOS v6设备上实现权限提升到超级管理员和远程代码执行（RCE）的过程。文章最后强调了记录和分享关于MikroTik和RouterOS的知识的重要性，以鼓励进一步的研究和探索。
+
 https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
 
 https://mp.weixin.qq.com/s/WkXbI5lHM2LYnSCMuQAdbA
@@ -221,10 +223,7 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
-## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-嵌入式/物联网设备漏洞分析
+## 嵌入式/物联网设备漏洞分析
 [Your printer is not your printer ! - Hacking Printers at Pwn2Own Part I | DEVCORE 戴夫寇爾](https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/)
 
 [chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
@@ -320,6 +319,9 @@ https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Loc
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+[Intro to Embedded RE Part 1: Tools and Series Overview](https://voidstarsec.com/blog/intro-to-embedded-part-1)
+- 摘要: 这篇博客提供了逆向工程嵌入式系统所需的工具概述。它涵盖了硬件和软件工具，包括树莓派、逻辑分析仪、万用表、电源、面包板和焊接铁。文章还提到了其他工具，如硅垫、显微镜、FTDI扩展板、示波器、ChipWhisperer、Ghidra、Binwalk、Kaitai Struct和Pulseview/SigRok。该系列将涵盖构建Ghidra开发环境、UART发现和固件提取、理解Ghidra中的内存映射和地址空间、通过SPI和USB进行固件提取、用于固件分析的Kaitai Struct、I2C和并行闪存提取、PCode仿真以及JTAG概述和应用等主题。系列中的每篇文章都有特定的重点，并提供概述、目标、工具、硬件/软件拆解、结论和资源。文章还包含一个指向GitHub存储库的链接，用于访问与每个目标相关的材料。该系列旨在为对学习逆向工程嵌入式系统感兴趣的硬件和软件工程师提供一条路线图。
+
 https://mp.weixin.qq.com/s/HMMa44u-FtSRPxQ1R-73jw
 
 https://mp.weixin.qq.com/s/TsDWgCABWGCUMVUUK3f05A
@@ -367,14 +369,8 @@ https://mp.weixin.qq.com/s/Q2OfKSDsv3-4zdlW3tkgxg
 
 https://mp.weixin.qq.com/s/orbT6HuK6cLN3A2-gcA0Ng
 # 会议
-## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-国内会议
-## 
-[Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
-- 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-国外会议
+## 国内会议
+## 国外会议
 [WordPress › Error](https://conference.hitb.org/hitbsecconf2022sin/materials/D2 COMMSEC - Cracking Kyocera Printers - Yue Liu, Minghang Shen )
 
 [Page not found - HITBSecConf2023 - Amsterdam](https://conference.hitb.org/hitbsecconf2023ams/materials/D1T1 - Your Not So Home Office - Soho Hacking at Pwn2Own - McCaulay Hudson )
