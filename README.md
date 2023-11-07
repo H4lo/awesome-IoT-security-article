@@ -105,7 +105,7 @@ https://github.com/ea/lytro_unlock
 
 
 [Cisco IOS XE CVE-2023-20198: Deep Dive and POC – Horizon3.ai](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
-摘要: 这篇文章是对之前一篇文章的跟进，探讨了影响思科IOS XE的CVE-2023-20273和CVE-2023-20198的补丁，并确定了攻击者可能利用这些漏洞的一些途径。通过SECUINFRA FALCON TEAM的蜜罐，我们对这些漏洞有了更深入的了解。文章介绍了一个绕过认证的示例请求，以及如何利用该漏洞创建一个具有最高权限的用户。文章指出思科修复这个漏洞的方法有些不寻常，他们本应该修复路径解析漏洞，而不是添加一个新的头部。这让我们怀疑是否还有其他可以通过这种方法访问的隐藏端点。
+- 摘要: 这篇文章是对之前一篇文章的跟进，探讨了影响思科IOS XE的CVE-2023-20273和CVE-2023-20198的补丁，并确定了攻击者可能利用这些漏洞的一些途径。通过SECUINFRA FALCON TEAM的蜜罐，我们对这些漏洞有了更深入的了解。文章介绍了一个绕过认证的示例请求，以及如何利用该漏洞创建一个具有最高权限的用户。文章指出思科修复这个漏洞的方法有些不寻常，他们本应该修复路径解析漏洞，而不是添加一个新的头部。这让我们怀疑是否还有其他可以通过这种方法访问的隐藏端点。
 
 https://mp.weixin.qq.com/s/zJJHFjmLqCtcbahJYfoyaw
 
@@ -224,6 +224,11 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[Your printer is not your printer ! - Hacking Printers at Pwn2Own Part II | DEVCORE](https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2-en/)
+- 摘要: 根据提供的新背景信息，我们可以对原始摘要进行完善。
+
+研究人员在Pwn2Own Toronto 2022比赛中发现了佳能打印机的Pre-auth RCE漏洞，并与另一个团队发生了关于惠普漏洞的冲突。佳能漏洞涉及mDNS协议中的堆栈溢出，而惠普漏洞则是NetBIOS中的堆溢出。研究人员成功利用这些漏洞运行了shellcode，并控制了打印机。在佳能打印机漏洞中，研究人员发现佳能实现的NetBIOS守护程序在解析NetBIOS数据包时存在堆溢出，使他们能够覆盖nb_info结构并控制打印机。此外，研究人员还发现了惠普Color LaserJet Pro M479fdw打印机的slangapp组件中的堆栈溢出漏洞。通过利用这个漏洞，他们能够覆盖函数指针并执行任意代码，最终控制了打印机。佳能打印机的漏洞是通过解析未检查长度的pathinfo触发的，导致堆栈溢出。研究人员通过构造一个请求到/Scan/Jobs/并覆盖返回地址来利用这个漏洞。然而，这个漏洞与另一个团队的发现发生了冲突。打印机安全问题仍然容易被忽视，正如在Pwn2Own比赛中能够入侵打印机的团队数量不断增加所证明的那样。建议物联网设备的用户禁用不必要的服务，正确设置防火墙，并实施适当的访问控制以减轻攻击风险。
+
 [Your printer is not your printer ! - Hacking Printers at Pwn2Own Part I | DEVCORE 戴夫寇爾](https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1/)
 
 [chonked pt.1: MiniDLNA 1.3.2 HTTP Chunk Parsing Heap Overflow (CVE-2023-33476) Root Cause Analysis | hyprblog](https://blog.coffinsec.com/0day/2023/05/31/minidlna-heap-overflow-rca.html)
