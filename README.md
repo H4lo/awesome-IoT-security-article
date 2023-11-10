@@ -267,6 +267,9 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://mp.weixin.qq.com/s/EPcqFkzmZs8-Sk5iHFHHPA
+- 摘要: 摘要为空
+
 https://mp.weixin.qq.com/s/CfflBzV0a9Glf96JkgbBmg
 - 摘要: 这篇文章主要讲述了作者尝试刷机摄像头的经历。作者首先尝试使用32G的SD卡刷机，但失败了。然后作者尝试使用TFTP服务器来拯救摄像头，成功了。最后作者介绍了如何修改固件并重新刷入设备。
 
