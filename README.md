@@ -212,6 +212,9 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 智能家居漏洞分析
+[Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
+- 摘要: 研究人员在MI AIoT Router AC2350中发现了多个漏洞，允许攻击者获得root访问权限。这些漏洞在最新的固件更新中没有修复，并且之前在其他小米路由器中也被发现过。局域网漏洞包括命令注入漏洞（CVE-2020-14100）和重复命令注入漏洞（CVE-2023-26319），允许任意命令执行。广域网漏洞包括smartcontroller二进制文件中的堆栈缓冲区溢出漏洞（CVE-2023-26318），允许远程代码执行，以及messagingagent二进制文件中的命令注入漏洞（CVE-2023-26317），允许远程命令执行。此外，messagingagent二进制文件中还发现了堆栈缓冲区溢出漏洞（CVE-2023-26320），导致拒绝服务。这些漏洞对MI AIoT Router AC2350的用户构成重大安全风险。研究人员还发现了messagingagent二进制文件中的堆栈缓冲区溢出漏洞，通过崩溃/usr/bin/messagingagent引起拒绝服务。崩溃会影响路由器的功能，需要重新启动才能恢复正常操作。这些漏洞在其他小米固件中得到了验证，并且研究人员已经确定了四个新的CVE。尽管研究人员希望他们的发现能够加强小米产品的安全性，但他们认为可能还有更多的漏洞有待发现。
+
 [Pulling MikroTik into the Limelight — Margin Research](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
 - 摘要: 这篇博客提供了关于逆向工程MikroTik路由器的概述，并介绍了研究过程中创建的工具。它涵盖了RouterOS操作系统、绕过签名验证、MikroTik的专有消息协议和认证过程等主题。该文章旨在更新关于MikroTik的公开可用知识，并提供有关其内部工作原理的速成课程，包括消息路由和多播和广播功能的使用。文章还讨论了使用工具跟踪内部RouterOS消息并可视化它们的方法。此外，文章还深入探讨了MikroTik路由器的认证方案，探索了椭圆曲线Diffie-Hellman（ECDH）和椭圆曲线安全远程协议（EC-SRP）等加密协议。分析了MikroTik对EC-SRP的IEEE提交草案的实现的差异，突出了MikroTik所做的修改。文章最后提到了实现Winbox和MAC Telnet协议的工具的可用性，并提供了有关EC-SRP协议和MikroTik的投影空间计算的进一步细节。文章还讨论了使用精心制作的消息和ROP链在RouterOS v6设备上实现权限提升到超级管理员和远程代码执行（RCE）的过程。文章最后强调了记录和分享关于MikroTik和RouterOS的知识的重要性，以鼓励进一步的研究和探索。
 
