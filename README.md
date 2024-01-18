@@ -98,6 +98,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Remote Code Execution on Cisco Access Point WAP371 firmware â¤ 1.3.0.7](https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307)
+- 摘要: 管理员成功登录后，可以在管理部分找到数据包捕获功能。捕获成功后，管理员可以选择直接下载pcap文件，或者通过指定IPv4地址将其发送到远程服务器。然而，服务器上的一个漏洞允许攻击者注入额外的命令，从而创建一个恶意进程。
+
 [CVE-2023-46805 | AttackerKB](https://attackerkb.com/topics/AdUh6by52K/cve-2023-46805/rapid7-analysis)
 - 摘要: 多个方面披露了影响Ivanti Connect Secure和Ivanti Policy Secure网关的零日漏洞链。该漏洞链包括绕过身份验证的漏洞和命令注入漏洞，允许远程攻击者以root权限执行任意操作系统命令。这些漏洞影响产品的所有支持版本。调查还发现，包括"/api/v1/totp/user-backup-code"在内的某些终端不需要身份验证。这使得攻击者可以访问内部的Python REST服务，并有可能利用命令注入漏洞。在文件restservice\api\resources\awsazuretestconnection.py中还发现了第二个经过身份验证的命令注入漏洞。供应商已提供了漏洞的缓解措施，并已验证可以阻止利用漏洞。供应商已披露这些漏洞，并计划于2024年1月22日发布官方补丁。与此同时，可以使用临时的XML缓解文件阻止对某些URL的访问，以防止漏洞链的利用。强烈建议立即应用这个临时解决方案。
 
