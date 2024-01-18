@@ -276,6 +276,9 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://mp.weixin.qq.com/s/GT0k-rPwahlzqz7Ru2XnUg
+- 摘要: 本文介绍了获取虚拟机shell的方法，包括挂载磁盘和修改启动逻辑等。对于未加密的磁盘，可以直接挂载并修改启动脚本；对于加密的磁盘，可以通过调试获取密钥并解密磁盘。此外，还介绍了通过内存patch的方式获取虚拟机shell的方法。
+
 https://ssd-disclosure.com/ssd-advisory-qnap-qts5-usr-lib-libqcloud-so-json-parsing-leads-to-rce/
 - 摘要: QTS的JSON解析功能存在类型混淆漏洞，由于未正确检查json-object->data字段的类型。该漏洞允许攻击者劫持控制流，并可通过/cgi-bin/qid/qidRequestV2.cgi二进制文件进行访问。成功利用该漏洞的攻击者可以以管理员用户（相当于QTS操作系统中的root）的身份执行任意代码。该漏洞存在于运行QTS操作系统的QNAP NAS设备中，至少从5.1.0.2348版本开始存在。供应商已发布了修复该漏洞的补丁。
 
