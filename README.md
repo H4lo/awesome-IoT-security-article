@@ -276,6 +276,9 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://mp.weixin.qq.com/s/jw_APyy6SKo9nMcjqOW1EA
+- 摘要: 这篇文章是关于华硕路由器堆溢出漏洞的分析和利用。文章介绍了漏洞的原理和利用方法，并提供了一个示例的exploit。同时，文章还提到了对漏洞进行修复的补丁分析。
+
 https://mp.weixin.qq.com/s/GT0k-rPwahlzqz7Ru2XnUg
 - 摘要: 本文介绍了获取虚拟机shell的方法，包括挂载磁盘和修改启动逻辑等。对于未加密的磁盘，可以直接挂载并修改启动脚本；对于加密的磁盘，可以通过调试获取密钥并解密磁盘。此外，还介绍了通过内存patch的方式获取虚拟机shell的方法。
 
