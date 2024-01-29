@@ -98,6 +98,11 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://ssd-disclosure.com/ssd-advisory-zyxel-vpn-series-pre-auth-remote-command-execution/
+- 摘要: 鉴于新的背景信息，我们可以对原始摘要进行完善。
+
+新的摘要：Zyxel VPN防火墙存在三个漏洞链，使得未经身份验证的攻击者可以以root权限执行任意命令。受影响的型号包括VPN50、VPN100、VPN300、VPN500和VPN1000，固件版本为5.21至5.36。这些漏洞允许攻击者覆盖产品配置并触发进程间通信中的注入点，从而实现远程代码执行。sdwan_interface进程以root权限运行，无需额外的特权升级漏洞。这些漏洞还允许攻击者绕过长度限制，在文件中编写任意命令，使其能够执行超出长度限制的命令。通过将这些漏洞链接在一起，攻击者可以实现root预认证远程代码执行。
+
 [Remote Code Execution on Cisco Access Point WAP371 firmware â¤ 1.3.0.7](https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307)
 - 摘要: 管理员成功登录后，可以在管理部分找到数据包捕获功能。捕获成功后，管理员可以选择直接下载pcap文件，或者通过指定IPv4地址将其发送到远程服务器。然而，服务器上的一个漏洞允许攻击者注入额外的命令，从而创建一个恶意进程。
 
