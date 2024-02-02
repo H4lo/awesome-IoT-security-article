@@ -495,6 +495,9 @@ vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
 synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
+[Millions of Routers at Risk: CVE-2024-21833 Threatens TP-Link Devices](https://securityonline.info/millions-of-routers-at-risk-cve-2024-21833-threatens-tp-link-devices/)
+- 摘要: 最近，CYFIRMA的研究团队对一种名为CVE-2024-21833的安全漏洞进行了详尽分析，该漏洞对TP-Link路由器构成重大风险。该漏洞于2024年1月10日被JPCERT/CC发现，被赋予了8.8的CVSS评分，表示其严重性。该漏洞影响了Archer AX3000、AX5400、AXE75、Deco X50和XE200等型号的路由器，允许未经身份验证的攻击者在附近网络中执行任意操作系统命令。用户应及时更新固件以解决这些安全问题。此外，近年来网络基础设施漏洞的攻击趋势日益增长，TP-Link漏洞并非孤立事件。此漏洞的利用可能导致各个行业的供应链攻击机会，包括金融、教育、政府、医疗、保险和法律实体。用户和网络管理员应采取相应的缓解措施，包括及时更新固件和实施网络分割和防火墙规则。
+
 https://media.defcon.org/DEF CON 30/DEF CON 30 presentations/Daniel (dozer) Jensen - Hunting Bugs in The Tropics V1.0.pdf
 
 https://github.com/horizon3ai/CVE-2022-39952
