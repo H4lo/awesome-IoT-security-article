@@ -60,6 +60,9 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[Research Notes](https://www.assetnote.io/resources/research)
+- 摘要: 请与我们的团队通话，了解Assetnote如何改变您保护攻击面的方式。我们将为您设置一个试用实例，让您亲自体验其影响。
+
 [Quarkslab's blog](https://blog.quarkslab.com/index.html)
 
 [CTF导航 | 分享CTF、IOT、ICS、Car相关内容](https://www.ctfiot.com/)
