@@ -98,6 +98,11 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[High Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & RCE](https://www.assetnote.io/resources/research/high-signal-detection-and-exploitation-of-ivantis-pulse-connect-secure-auth-bypass-rce)
+- 摘要: 根据提供的新背景信息，我们可以对原始摘要进行完善。
+
+Ivanti Pulse Connect Secure披露了两个关键漏洞 - CVE-2023-46805（身份验证绕过）和CVE-2024-21887（远程命令执行）。现有的身份验证绕过的利用载荷在旧版本的软件上无法使用。已经发现了一种新的载荷，用于滥用旧版本的身份验证绕过。这些漏洞正在被积极利用，安全研究团队正在努力通知受影响的客户。博客文章记录了逆向工程过程，并确定了检测机制和利用载荷中的潜在漏洞。这些漏洞影响了各个版本的Ivanti Pulse Connect Secure，并且团队已经测试了多个版本以确保准确检测。博客文章还讨论了软件中的文件系统访问和LUKS卷的加密。研究团队在软件的REST API中发现了一系列API端点，并发现了两个无需身份验证即可访问的端点。他们还在API中发现了一个命令注入漏洞。博客文章提供了使用"os.system"和"Popen"调用的"restservice/api"目录中的易受攻击的代码片段的详细信息。这些漏洞允许执行任意命令。博客文章建议采取临时缓解措施和设备完整性检查，因为尚未发布完整的补丁。
+
 [Ivanti's Pulse Connect Secure Auth Bypass Round Two](https://www.assetnote.io/resources/research/ivantis-pulse-connect-secure-auth-bypass-round-two)
 - 摘要: Ivanti发布了一份公告，描述了Ivanti Connect Secure中的两个新漏洞：CVE-2024-21888（特权提升）和CVE-2024-21893（身份验证绕过）。安全研究团队在尝试配置其ICS虚拟机以使用SAML身份验证时，发现了SAML组件中的服务器端请求伪造（SSRF）漏洞。他们还发现了一个错误消息，表明可能存在SSRF漏洞。团队进一步调查了SSRF漏洞，并发现DSAuth perl模块是C和C++库的包装器。他们发现了一个名为libxmltooling.so.3的开源软件包中的漏洞，该漏洞允许进行SSRF攻击。通过利用这个漏洞，他们能够通过修改SAML负载并直接调用Web代理后面的Python服务器来实现远程代码执行（RCE）。研究人员还发现了一个更可靠的攻击目标，适用于那些似乎没有配置SAML身份验证的目标。Ivanti已发布了修补程序来解决这些漏洞，并建议用户对其设备进行恢复出厂设置并应用修补程序。
 
