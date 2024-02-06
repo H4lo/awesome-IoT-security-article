@@ -292,6 +292,9 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://mp.weixin.qq.com/s/GC2zwT9SNs2PGLBvQhiN8w
+- 摘要: 摘要为空
+
 https://mp.weixin.qq.com/s/jw_APyy6SKo9nMcjqOW1EA
 - 摘要: 这篇文章是关于华硕路由器堆溢出漏洞的分析和利用。文章介绍了漏洞的原理和利用方法，并提供了一个示例的exploit。同时，文章还提到了对漏洞进行修复的补丁分析。
 
