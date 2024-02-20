@@ -30,6 +30,9 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+[分类 Learning 下的文章 - 赤道企鹅的博客 | Eqqie's Blog](https://eqqie.cn/index.php/category/Learning)
+- 摘要: 根据新的上下文，我们可以对原始摘要进行一些修改。
+
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 
