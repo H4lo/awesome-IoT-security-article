@@ -307,6 +307,13 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[Arlo: I'm watching you](https://www.synacktiv.com/publications/arlo-im-watching-you)
+- 摘要: 根据提供的新背景信息，我们可以对原始摘要进行完善。
+
+新摘要：在多伦多举行的Pwn2Own竞赛中，新增了一个“监控系统”类别，本篇博客文章重点关注Arlo摄像头的漏洞研究。对摄像头固件的分析揭示了更新文件是从特定URL下载并遵循特定格式。固件包括不同的操作模式和用于简化模式切换的shell。发现了与版本1的固件格式相关联的RSA私钥，可以解密各种Arlo摄像头型号的固件更新。然而，由于密钥和格式的差异，某些更新无法解密。研究期间开发的工具可在GitHub上获取，以供进一步研究使用。需要注意的是，不应公开发布RSA私钥，并且必须执行中间人攻击来利用较小的攻击面进行TLS连接。
+
+请注意，如果新的背景信息对原始摘要没有帮助，则返回原始摘要。
+
 https://mp.weixin.qq.com/s/GC2zwT9SNs2PGLBvQhiN8w
 - 摘要: 摘要为空
 
