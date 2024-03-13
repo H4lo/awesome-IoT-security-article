@@ -104,6 +104,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://mp.weixin.qq.com/s/FFjIMzbLBxwO7hHZJF6Zuw
+- 摘要: 摘要为空
+
 [High Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & RCE](https://www.assetnote.io/resources/research/high-signal-detection-and-exploitation-of-ivantis-pulse-connect-secure-auth-bypass-rce)
 - 摘要: 根据提供的新背景信息，我们可以对原始摘要进行完善。
 
