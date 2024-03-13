@@ -104,6 +104,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Draytek Vigor 3910 | CataLpa's Site](https://wzt.ac.cn/2024/02/19/vigor_3910/)
+- 摘要: 这段代码是一个用于解密和解压缩固件文件的程序。它使用ChaCha20加密算法对文件进行解密，并使用lz4算法对解密后的数据进行解压缩。程序接受一个固件文件作为输入，并将解压缩后的文件保存在rootfs.cpio中。
+
 https://mp.weixin.qq.com/s/FFjIMzbLBxwO7hHZJF6Zuw
 - 摘要: 摘要为空
 
