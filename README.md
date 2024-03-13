@@ -63,6 +63,9 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[Defense.One](https://defense.one/)
+- 摘要: 请使用现代浏览器并启用JavaScript以获得最佳浏览体验。
+
 [Research Notes](https://www.assetnote.io/resources/research)
 - 摘要: 请与我们的团队通话，了解Assetnote如何改变您保护攻击面的方式。我们将为您设置一个试用实例，让您亲自体验其影响。
 
