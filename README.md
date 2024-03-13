@@ -307,6 +307,9 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+https://paper.seebug.org/3129/
+- 摘要: 摘要为空
+
 [Arlo: I'm watching you](https://www.synacktiv.com/publications/arlo-im-watching-you)
 - 摘要: 根据提供的新背景信息，我们可以对原始摘要进行完善。
 
