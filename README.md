@@ -240,6 +240,9 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 智能家居漏洞分析
+[Say Friend and Enter: Digitally lockpicking an advanced smart lock (Part 2: discovered vulnerabilities)](https://alephsecurity.com/2024/03/07/kontrol-lux-lock-2/)
+- 摘要: 如果上下文没有用处，返回原始摘要。
+
 [Say Friend and Enter: Digitally lockpicking an advanced smart lock (Part 1: functional analysis)](https://alephsecurity.com/2024/02/20/kontrol-lux-lock-1/)
 - 摘要: 这篇博文分析了Sciener开发并由Kontrol在以色列市场推广的先进智能锁Kontrol Lux Lock。研究的重点是控制该锁的TTLock应用程序中存在的漏洞。分析揭示了锁的通信协议结构和使用的加密方法。博文讨论了使用ESP32 MCU模拟锁的过程以及使用Ghidra分析锁的固件。还分析了固件中使用的加密机制，包括与TTLock应用程序、网关和无线键盘通信的密钥。博文探讨了蓝牙低功耗（BLE）功能和处理传入BLE消息的处理程序，以及无线键盘功能和网关固件分析。此外，博文还提到了使用Telink的调试设备和专用软件套件BDT来调试锁和网关设备。博文还提到了使用socat记录网关与TTLock服务器之间实际流量以进行进一步分析。对网关协议进行了分析，并使用Python实现了网关和TTLock服务器的代码仿真，用于测试和攻击目的。在新的上下文中，还讨论了模拟重置并与新用户配对的网关，包括登录序列、密钥生成、报告附近的锁以及响应服务器命令的过程。
 
