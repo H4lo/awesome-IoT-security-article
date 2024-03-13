@@ -240,6 +240,9 @@ https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
 [A journey into IoT - Unknown Chinese alarm - Part 1 - Discover components and ports - hn security](https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-1-discover-components-and-ports/)
 
 ## 智能家居漏洞分析
+[Say Friend and Enter: Digitally lockpicking an advanced smart lock (Part 1: functional analysis)](https://alephsecurity.com/2024/02/20/kontrol-lux-lock-1/)
+- 摘要: 这篇博文分析了Sciener开发并由Kontrol在以色列市场推广的先进智能锁Kontrol Lux Lock。研究的重点是控制该锁的TTLock应用程序中存在的漏洞。分析揭示了锁的通信协议结构和使用的加密方法。博文讨论了使用ESP32 MCU模拟锁的过程以及使用Ghidra分析锁的固件。还分析了固件中使用的加密机制，包括与TTLock应用程序、网关和无线键盘通信的密钥。博文探讨了蓝牙低功耗（BLE）功能和处理传入BLE消息的处理程序，以及无线键盘功能和网关固件分析。此外，博文还提到了使用Telink的调试设备和专用软件套件BDT来调试锁和网关设备。博文还提到了使用socat记录网关与TTLock服务器之间实际流量以进行进一步分析。对网关协议进行了分析，并使用Python实现了网关和TTLock服务器的代码仿真，用于测试和攻击目的。在新的上下文中，还讨论了模拟重置并与新用户配对的网关，包括登录序列、密钥生成、报告附近的锁以及响应服务器命令的过程。
+
 [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
 - 摘要: 研究人员在MI AIoT Router AC2350中发现了多个漏洞，允许攻击者获得root访问权限。这些漏洞在最新的固件更新中没有修复，并且之前在其他小米路由器中也被发现过。局域网漏洞包括命令注入漏洞（CVE-2020-14100）和重复命令注入漏洞（CVE-2023-26319），允许任意命令执行。广域网漏洞包括smartcontroller二进制文件中的堆栈缓冲区溢出漏洞（CVE-2023-26318），允许远程代码执行，以及messagingagent二进制文件中的命令注入漏洞（CVE-2023-26317），允许远程命令执行。此外，messagingagent二进制文件中还发现了堆栈缓冲区溢出漏洞（CVE-2023-26320），导致拒绝服务。这些漏洞对MI AIoT Router AC2350的用户构成重大安全风险。研究人员还发现了messagingagent二进制文件中的堆栈缓冲区溢出漏洞，通过崩溃/usr/bin/messagingagent引起拒绝服务。崩溃会影响路由器的功能，需要重新启动才能恢复正常操作。这些漏洞在其他小米固件中得到了验证，并且研究人员已经确定了四个新的CVE。尽管研究人员希望他们的发现能够加强小米产品的安全性，但他们认为可能还有更多的漏洞有待发现。
 
