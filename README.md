@@ -437,6 +437,9 @@ https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29
 https://mp.weixin.qq.com/s/G-Aas9ZFjEfUN6gj2hwusw
 
 # 模糊测试
+https://github.com/otsmr/blackbox-fuzzing
+- 摘要: 这篇学期论文主要讨论了在物联网设备中使用模糊测试来发现与内存相关的漏洞。论文探讨了模糊测试物联网设备所面临的挑战，例如专有源代码和不兼容的CPU架构。论文介绍了IoTFuzzer，这是一个自动化的模糊测试框架，旨在在没有访问固件映像的情况下发现物联网设备中的内存损坏漏洞。论文解释了模糊测试中的harness和corpus的概念，以及在固件中识别潜在易受攻击函数的过程。以二进制文件"wscd"为例，演示了模糊测试的一般过程。此外，还讨论了其他不同二进制文件中的潜在易受攻击函数，如"httpd"和"tmpd"。论文还探讨了使用自定义二进制协议及其潜在漏洞。作者开发了一个harness，并使用AFL++模糊器和QEMU模拟器来对目标函数进行模糊测试。论文还描述了使用Docker创建可重现的模糊测试环境的过程。作者讨论了开发和调试harness的过程，并使用Wireshark生成了一个种子corpus。使用AFL++状态屏幕来监视模糊测试过程，并使用循环计数器和总崩溃数等指标来确定何时停止模糊测试。论文得出结论，虽然模糊测试可能是发现安全漏洞的有效方法，但开发一个可工作的harness并识别出潜在目标可能是耗时且复杂的。
+
 [How I fuzz and hack APIs?](https://rashahacks.com/how-i-fuzz-and-hack-api/)
 
 
