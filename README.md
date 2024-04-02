@@ -110,6 +110,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[MicroSocks: Convenient access through a compromised SonicWall SMA | dfir.ch](https://dfir.ch/posts/microsocks_sonicwall/)
+- 摘要: 最近的调查发现，导致Abyss勒索软件部署的初始入口是一个受损的SonicWall Secure Mobile Access (SonicWall SMA)设备。攻击者利用CVE-2021-20039漏洞获取了访问权限。进一步分析发现，攻击者在设备上放置了两个文件，其中一个是名为wafxSummary的Web Shell。此外，还发现了一个名为wafySummary的文件，它是一个代理服务器。攻击者利用这些漏洞和代理服务器成功地渗透了网络，并在接近11个月的时间内进行了勒索软件分发。这个案例再次强调了及时打补丁、主动扫描漏洞和监控设备的重要性。
+
 [Draytek Vigor 3910 | CataLpa's Site](https://wzt.ac.cn/2024/02/19/vigor_3910/)
 - 摘要: 这段代码是一个用于解密和解压缩固件文件的程序。它使用ChaCha20加密算法对文件进行解密，并使用lz4算法对解密后的数据进行解压缩。程序接受一个固件文件作为输入，并将解压缩后的文件保存在rootfs.cpio中。
 
