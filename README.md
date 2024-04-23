@@ -30,6 +30,13 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+[如何快速挖掘设备逻辑洞](https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA)
+- 摘要: 1. 作者在接触物联网(IoT)一年后，对人工审计感到无趣和疲惫，尝试使用自动化漏洞挖掘方法，但效果不佳。
+2. 作者开发了一款辅助跨文件分析危险函数的工具，用于提高漏洞挖掘效率，但该工具存在一些bug。
+3. 作者认为，中小型厂商设备中最常见的逻辑洞是命令注入，建议从危险函数入手，寻找可能的漏洞。
+4. 作者编写的工具fdcalls已在github上开源，该工具有两个模式，可以帮助用户快速发现可能的漏洞点和危险函数。
+5. 作者以一个实例演示了如何使用这个工具，虽然没有直接定位到漏洞函数调用的位置，但能识别到存在的危险函数，对漏洞挖掘有一定的帮助。
+
 [IOT安全周动态导读（2023.03.20-2023.03.26 ）](https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew)
 - 摘要: 1. 本周的漏洞文章主要包括三部分：D-LINK DIR-878设备调试接口获取、TP-Link Archer AX21认证前命令注入漏洞和EMMC芯片的相关分析。
 2. D-LINK DIR-878设备调试接口获取的文章详细描述了通过固件模拟和硬件实体设备两种方式获取调试接口的过程，以调试D-LINK曝出的两个漏洞CVE-2022-41140和CVE-2023-24762。
@@ -43,9 +50,6 @@
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
 
-https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
-
-https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
 
 [About the book - A Noob's Guide To ARM Exploitation](https://ad2001.gitbook.io/a-noobs-guide-to-arm-exploitation/)
 
