@@ -319,6 +319,9 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[搭建 FortiGate 调试环境 (二)](https://wzt.ac.cn/2024/04/02/fortigate_debug_env2/)
+- 摘要: 这段文字是一段关于处理许可证的编程代码。主要步骤包括：1. 初始化许可证结构；2. 检查许可证数据是否存在；3. 在存在的情况下，找到许可证的开始和结束部分；4. 对许可证主体进行处理，包括解码和检查；5. 对解码后的许可证进行进一步处理，包括公钥解密和许可证结构的填充；6. 最后，根据处理结果返回相应的值。
+
 [某路由器串口破解新思路](https://mp.weixin.qq.com/s/EPcqFkzmZs8-Sk5iHFHHPA)
 - 摘要: 1. CTF组正在招募re、crypto、pwn、misc、合约方向的专家，同时也在长期招募IOT+Car+工控+样本分析等多个组的人员，有意向的可以通过邮箱admin@chamd5.org联系。
 2. 文章介绍了一种新的获取路由器权限的方式，即通过串口获取敏感数据。
