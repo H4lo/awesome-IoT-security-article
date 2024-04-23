@@ -30,13 +30,18 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+[IOT安全周动态导读（2023.03.20-2023.03.26 ）](https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew)
+- 摘要: 1. 本周的漏洞文章主要包括三部分：D-LINK DIR-878设备调试接口获取、TP-Link Archer AX21认证前命令注入漏洞和EMMC芯片的相关分析。
+2. D-LINK DIR-878设备调试接口获取的文章详细描述了通过固件模拟和硬件实体设备两种方式获取调试接口的过程，以调试D-LINK曝出的两个漏洞CVE-2022-41140和CVE-2023-24762。
+3. TP-Link Archer AX21认证前命令注入漏洞的文章主要讲述了通过/cgibin/luci/;stok=/locale请求路径对应的country参数导致的命令注入漏洞，可以获取root权限。
+4. EMMC芯片的相关分析文章主要讲述了对EMMC芯片的相关分析及对亚马逊Echo音箱进行该芯片分析的过程，包括芯片的基础知识、芯片引脚的介绍和实际操作过程。
+5. 本周的漏洞文章质量一般，建议对硬件调试感兴趣的读者阅读原文，以补充相关知识。
+
 [分类 Learning 下的文章 - 赤道企鹅的博客 | Eqqie's Blog](https://eqqie.cn/index.php/category/Learning)
 - 摘要: 根据新的上下文，我们可以对原始摘要进行一些修改。
 
 [Preface - heap-exploitation](https://heap-exploitation.dhavalkapil.com/)
 - 摘要: 这本书的第一部分详细描述了堆内部的情况，简洁明了。第二部分涵盖了一些最著名的攻击。假设读者对这个主题不熟悉。对于有经验的读者来说，这本书可能适合快速复习。
-
-https://mp.weixin.qq.com/s/L3bkD7nuZdDdBQ7DJ4Q-ew
 
 https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA
 
