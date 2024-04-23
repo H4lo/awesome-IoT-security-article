@@ -63,6 +63,9 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+https://blog.attify.com/
+- 摘要: 摘要为空
+
 [Shielder](https://www.shielder.com/blog/)
 - 摘要: 1. 近期公开的针对Orthanc DICOM服务器的CVE-2023-33466可以被用来实现远程代码执行。
 2. 由于没有可用的概念验证，我们编写了一个。
