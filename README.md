@@ -317,7 +317,7 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 # 固件分析
 [原创 Paper | 从 0 开始学习 VxWorks](https://mp.weixin.qq.com/s/GC2zwT9SNs2PGLBvQhiN8w)
-- 摘要: The article is a detailed guide on how to set up and use VxWorks, a real-time operating system (RTOS) developed by Wind River Systems. The author explains the differences between RTOS and time-sharing operating systems, and highlights the various applications of VxWorks in fields such as aerospace, military, and industrial automation. The guide includes steps on how to install Workbench, compile VxWorks, and create a simple application. The author also demonstrates how to test for the URGENT/11 vulnerability in VxWorks.
+- 摘要: 本文由wh0am1i@知道创宇404实验室的作者在2024年2月1日撰写，主要介绍了实时操作系统和分时操作系统的定义和区别，以及嵌入式实时操作系统VxWorks的应用领域和特点。文章还详细介绍了如何搭建VxWorks环境，编译VxWorks，启动VxWorks，创建VxWorks应用，并复现VxWorks漏洞。作者表示，虽然VxWorks环境搭建过程较为曲折，但作为业界领先的实时操作系统，VxWorks仍有很多内容值得深入研究。
 
 
 https://paper.seebug.org/3129/
