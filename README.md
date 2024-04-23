@@ -118,6 +118,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Palo Alto - Putting The Protecc In GlobalProtect (CVE-2024-3400)](https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/)
+- 摘要: 原文摘要已经非常详尽，新的上下文并未提供额外的信息，因此无需修改原有摘要。
+
 [Uniview IPC2322LB Auth Bypass and CLI escape](https://ssd-disclosure.com/ssd-advisory-uniview-ipc2322lb-auth-bypass-and-cli-escape/)
 - 摘要: 1. Uniview IPC2322LB的身份验证请求处理存在漏洞，远程攻击者可以绕过身份验证过程并获得未经授权的访问权限。
 2. 如果这个漏洞与CLI逃逸结合，Uniview设备的安全性可能会被完全破坏。
