@@ -316,6 +316,13 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[某路由器串口破解新思路](https://mp.weixin.qq.com/s/EPcqFkzmZs8-Sk5iHFHHPA)
+- 摘要: 1. CTF组正在招募re、crypto、pwn、misc、合约方向的专家，同时也在长期招募IOT+Car+工控+样本分析等多个组的人员，有意向的可以通过邮箱admin@chamd5.org联系。
+2. 文章介绍了一种新的获取路由器权限的方式，即通过串口获取敏感数据。
+3. 通过实验发现，当串口的TX线连接到主控芯片的BOOT相关引脚时，会导致主控芯片无法启动。因此，需要先让设备启动，然后再连接串口。
+4. 文章还发现，串口的RX引脚旁边有一个下拉电阻，会屏蔽所有从外部输入的数据，导致无法打断uboot，也无法在系统启动完成后输入用户和密码。
+5. 文章最后指出，这个路由器在硬件层面对串口做了两层防护，但在系统层面的鉴权却是空白的，这验证了信息安全的木桶理论，即一个产品的信息安全水平取决于最短的那块木板。
+
 [原创 Paper | 从 0 开始学习 VxWorks](https://mp.weixin.qq.com/s/GC2zwT9SNs2PGLBvQhiN8w)
 - 摘要: 本文由wh0am1i@知道创宇404实验室的作者在2024年2月1日撰写，主要介绍了实时操作系统和分时操作系统的定义和区别，以及嵌入式实时操作系统VxWorks的应用领域和特点。文章还详细介绍了如何搭建VxWorks环境，编译VxWorks，启动VxWorks，创建VxWorks应用，并复现VxWorks漏洞。作者表示，虽然VxWorks环境搭建过程较为曲折，但作为业界领先的实时操作系统，VxWorks仍有很多内容值得深入研究。
 
@@ -336,9 +343,6 @@ https://mp.weixin.qq.com/s/GT0k-rPwahlzqz7Ru2XnUg
 
 https://ssd-disclosure.com/ssd-advisory-qnap-qts5-usr-lib-libqcloud-so-json-parsing-leads-to-rce/
 - 摘要: QTS的JSON解析功能存在类型混淆漏洞，由于未正确检查json-object->data字段的类型。该漏洞允许攻击者劫持控制流，并可通过/cgi-bin/qid/qidRequestV2.cgi二进制文件进行访问。成功利用该漏洞的攻击者可以以管理员用户（相当于QTS操作系统中的root）的身份执行任意代码。该漏洞存在于运行QTS操作系统的QNAP NAS设备中，至少从5.1.0.2348版本开始存在。供应商已发布了修复该漏洞的补丁。
-
-https://mp.weixin.qq.com/s/EPcqFkzmZs8-Sk5iHFHHPA
-- 摘要: 摘要为空
 
 https://mp.weixin.qq.com/s/CfflBzV0a9Glf96JkgbBmg
 - 摘要: 这篇文章主要讲述了作者尝试刷机摄像头的经历。作者首先尝试使用32G的SD卡刷机，但失败了。然后作者尝试使用TFTP服务器来拯救摄像头，成功了。最后作者介绍了如何修改固件并重新刷入设备。
@@ -395,8 +399,6 @@ http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 # 无线电安全
 [BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | security-research](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html)
 - 摘要: BleedingTooth是Linux蓝牙子系统中的一组零点击漏洞，可以允许未经身份验证的远程攻击者在短距离内以内核特权执行任意代码。这些漏洞包括一个基于堆的缓冲区溢出漏洞（CVE-2020-24490），可以通过向蓝牙5芯片发送大型广告报告来触发。此漏洞仅在具有蓝牙5芯片的设备上触发，并且只有在受害者正在主动扫描广告数据时才能触发。此外，还存在另外两个漏洞：BadChoice涉及基于堆栈的信息泄漏（CVE-2020-12352），BadKarma是基于堆的类型混淆漏洞（CVE-2020-12351）。这些漏洞构成了严重的安全风险，并可被利用以控制受害者的设备。BadKarma漏洞可以与BadVibes和BadChoice漏洞链接，以实现远程代码执行。用于通信的A2MP通道可以重新配置以绕过BadKarma漏洞并直接调用A2MP接收处理程序。通过将所需的通道模式封装在L2CAP_CONF_UNACCEPT配置响应中，可以实现此重新配置。可以通过操纵struct sock对象和sk_filter()子程序进一步利用漏洞，以控制struct amp_mgr对象并最终执行任意代码。可以使用堆喷射技术来塑造堆并实现受控的越界读取，从而允许对内存地址进行操纵。BadChoice漏洞可用于泄漏内存布局并帮助控制具有已知地址的内存块。通过在之前发送L2CAP_CONF_RSP并尝试将A2MP通道重新配置为L2CAP_MODE_ERTM，可以泄漏偏移量为0x110的struct l2cap_chan对象的地址。该对象的大小为792字节，并在kmalloc-1024 slab中分配。可以通过销毁A2MP通道来释放struct l2cap_chan对象，从而允许与Use-After-Free攻击相同的策略。该技术涉及泄漏struct l2cap_chan对象的地址，通过销毁A2MP通道释放对象，重新连接A2MP通道，并使用堆原语向kmalloc-1024 slab喷射，以可能重新获取以前的struct l2cap_chan对象的地址。该技术可用于控制struct l2cap_chan对象。可以进一步利用这些漏洞来通过控制内存块、泄漏.text段指针和构建ROP链来实现远程代码执行。可以利用对sk_filter字段的控制来将其指向有效载荷并实现RIP控制。该利用还可以执行代码重用攻击，如ROP/JOP，以实现内核堆栈枢轴和执行任意命令。该漏洞的利用的概念验证可在GitHub上找到。漏洞的发现和披露时间表以及研究人员对改进Linux内核安全性的贡献也提供了。
-
-https://mp.weixin.qq.com/s/16V1JLcLaakCcMHjzOBbRA
 
 https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Locating-Systems.pdf
 
