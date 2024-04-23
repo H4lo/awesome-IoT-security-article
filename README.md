@@ -30,6 +30,9 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
+[物联网安全之漏洞挖掘](https://mp.weixin.qq.com/s/JT_HCfSS7bpgutk3v2ApNQ)
+- 摘要: 该段落要求以新闻评论的格式，对发送的文字内容进行简短的总结摘要，分段列出，不超过5点。如果需要ppt，可以在后台回复pdf进行下载。请用中文回答。
+
 [如何快速挖掘设备逻辑洞](https://mp.weixin.qq.com/s/jZd5BpAmwFZOZuNjc4-oqA)
 - 摘要: 1. 作者在接触物联网(IoT)一年后，对人工审计感到无趣和疲惫，尝试使用自动化漏洞挖掘方法，但效果不佳。
 2. 作者开发了一款辅助跨文件分析危险函数的工具，用于提高漏洞挖掘效率，但该工具存在一些bug。
@@ -58,8 +61,6 @@
 [使用Binary Ninja进行IoT设备漏洞挖掘](https://dawnslab.jd.com/binaryninja1-zh-cn/)
 
 https://forum.defcon.org/node/241835, https://github.com/infobyte/cve-2022-27255
-
-https://mp.weixin.qq.com/s/JT_HCfSS7bpgutk3v2ApNQ
 
 https://mp.weixin.qq.com/s/7cdt5lCmU5ufucUasaKVZA
 
