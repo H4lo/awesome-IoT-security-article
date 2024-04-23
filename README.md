@@ -133,6 +133,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[TPLink 中继器设备命令注入漏洞分析及复现](https://mp.weixin.qq.com/s/Hayfe1gxRl_Clk7L8DIEZg)
+- 摘要: 1. 在分析TPlink中继器设备（以TL-WPA8630为例）时，发现了两处可以利用的命令注入和栈溢出漏洞。
+2. 这两个漏洞存在于处理admin/powerline的sub_40A918函数中，涉及到plc_device对应的key参数和plc_add对应的devicePwd参数。
+3. 这些漏洞已经提交至CVE官网，影响的版本包括TL-WPA8630 KIT(US)_V2_171011版，以及其他WPA、WR、WA等电力猫与中继器设备对应版本。
+4. 通过模拟设备的web服务，研究者成功复现了这两个漏洞，证明了其可以实现命令注入和栈溢出攻击。
+5. 针对这些漏洞，建议用户及时更新设备版本以保证安全。
+
 [Juniper SRX远程代码执行漏洞复现分析](https://mp.weixin.qq.com/s/zJJHFjmLqCtcbahJYfoyaw)
 - 摘要: 1. 近日，Juniper Networks发布安全公告，EX系列和SRX系列（EX交换机和SRX防火墙设备）上的Junos OS的J-Web中的两个PHP外部变量修改漏洞允许未经身份验证的基于网络的攻击者控制某些重要的环境变量。
 2. 威胁行为者可以发送特制请求来修改某些PHP环境变量或通过J-Web上传任意文件，无需任何身份验证即可成功利用上述问题。
@@ -222,8 +229,6 @@ https://github.com/ea/lytro_unlock
 [Vulnerability Spotlight: Netgear Orbi router vulnerable to arbitrary command execution](https://blog.talosintelligence.com/vulnerability-spotlight-netgear-orbi-router-vulnerable-to-arbitrary-command-execution/)
 
 [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
-
-https://mp.weixin.qq.com/s/Hayfe1gxRl_Clk7L8DIEZg
 
 https://mp.weixin.qq.com/s/2joZwexIdVdgc5NL8W3J-A
 
