@@ -110,6 +110,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Uniview IPC2322LB Auth Bypass and CLI escape](https://ssd-disclosure.com/ssd-advisory-uniview-ipc2322lb-auth-bypass-and-cli-escape/)
+- 摘要: 1. Uniview IPC2322LB的身份验证请求处理存在漏洞，远程攻击者可以绕过身份验证过程并获得未经授权的访问权限。
+2. 如果这个漏洞与CLI逃逸结合，Uniview设备的安全性可能会被完全破坏。
+3. 供应商已经发布了一个解决这个问题的建议。
+4. 所有与密码更改相关的Uniview IPC2322LB的Javascript代码都可以在没有身份验证的情况下访问，因此可以绕过身份验证要求并更改密码。
+5. 通过绕过身份验证和uvsh（受限制的shell）获取root权限，可以启用telnet。
+
 [Hunting for <del>Un</del>authenticated n-days in Asus Routers](https://www.shielder.com/blog/2024/01/hunting-for-~~un~~authenticated-n-days-in-asus-routers/)
 - 摘要: 原始摘要的细化版：1. 在阅读了一些关于影响ASUS路由器的关键CVE的在线详细信息后，我们决定分析易受攻击的固件并可能编写一个n-day漏洞利用程序。
 2. 我们发现了易受攻击的代码片段，并成功编写了一个漏洞利用程序以获得RCE，但我们也发现，在现实世界的设备中，报告的漏洞的“未经认证的远程”属性并不总是成立，这取决于设备的当前配置。
