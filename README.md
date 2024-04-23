@@ -110,6 +110,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Palo Alto CVE-2024-3400 漏洞分析](https://mp.weixin.qq.com/s/D17gGbLJFvWxSO0buyjAxg)
+- 摘要: 全球知名防火墙公司Palo Alto Networks近日公布了一个存在于部分PAN-OS系统的GlobalProtect功能中的漏洞CVE-2024-3400。该漏洞允许攻击者在某些配置打开的情况下，对运行该系统的设备进行未授权的远程代码执行，并获取系统的root权限。漏洞利用分析显示，攻击者可以在系统任何目录创建一个文件名可控的文件，然后通过命令注入进行攻击。目前，官方已经发布了更新版本以修复这个漏洞。
+
 [MicroSocks: Convenient access through a compromised SonicWall SMA | dfir.ch](https://dfir.ch/posts/microsocks_sonicwall/)
 - 摘要: 最近的调查发现，导致Abyss勒索软件部署的初始入口是一个受损的SonicWall Secure Mobile Access (SonicWall SMA)设备。攻击者利用CVE-2021-20039漏洞获取了访问权限。进一步分析发现，攻击者在设备上放置了两个文件，其中一个是名为wafxSummary的Web Shell。此外，还发现了一个名为wafySummary的文件，它是一个代理服务器。攻击者利用这些漏洞和代理服务器成功地渗透了网络，并在接近11个月的时间内进行了勒索软件分发。这个案例再次强调了及时打补丁、主动扫描漏洞和监控设备的重要性。
 
