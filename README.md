@@ -316,18 +316,17 @@ https://mp.weixin.qq.com/s/xVU8o5NcbFYmy0yPJfiwVQ
 
 
 # 固件分析
+[原创 Paper | 从 0 开始学习 VxWorks](https://mp.weixin.qq.com/s/GC2zwT9SNs2PGLBvQhiN8w)
+- 摘要: The article is a detailed guide on how to set up and use VxWorks, a real-time operating system (RTOS) developed by Wind River Systems. The author explains the differences between RTOS and time-sharing operating systems, and highlights the various applications of VxWorks in fields such as aerospace, military, and industrial automation. The guide includes steps on how to install Workbench, compile VxWorks, and create a simple application. The author also demonstrates how to test for the URGENT/11 vulnerability in VxWorks.
+
+
 https://paper.seebug.org/3129/
 - 摘要: 摘要为空
 
 [Arlo: I'm watching you](https://www.synacktiv.com/publications/arlo-im-watching-you)
-- 摘要: 根据提供的新背景信息，我们可以对原始摘要进行完善。
-
-新摘要：在多伦多举行的Pwn2Own竞赛中，新增了一个“监控系统”类别，本篇博客文章重点关注Arlo摄像头的漏洞研究。对摄像头固件的分析揭示了更新文件是从特定URL下载并遵循特定格式。固件包括不同的操作模式和用于简化模式切换的shell。发现了与版本1的固件格式相关联的RSA私钥，可以解密各种Arlo摄像头型号的固件更新。然而，由于密钥和格式的差异，某些更新无法解密。研究期间开发的工具可在GitHub上获取，以供进一步研究使用。需要注意的是，不应公开发布RSA私钥，并且必须执行中间人攻击来利用较小的攻击面进行TLS连接。
+- 摘要：在多伦多举行的Pwn2Own竞赛中，新增了一个“监控系统”类别，本篇博客文章重点关注Arlo摄像头的漏洞研究。对摄像头固件的分析揭示了更新文件是从特定URL下载并遵循特定格式。固件包括不同的操作模式和用于简化模式切换的shell。发现了与版本1的固件格式相关联的RSA私钥，可以解密各种Arlo摄像头型号的固件更新。然而，由于密钥和格式的差异，某些更新无法解密。研究期间开发的工具可在GitHub上获取，以供进一步研究使用。需要注意的是，不应公开发布RSA私钥，并且必须执行中间人攻击来利用较小的攻击面进行TLS连接。
 
 请注意，如果新的背景信息对原始摘要没有帮助，则返回原始摘要。
-
-https://mp.weixin.qq.com/s/GC2zwT9SNs2PGLBvQhiN8w
-- 摘要: 摘要为空
 
 https://mp.weixin.qq.com/s/jw_APyy6SKo9nMcjqOW1EA
 - 摘要: 这篇文章是关于华硕路由器堆溢出漏洞的分析和利用。文章介绍了漏洞的原理和利用方法，并提供了一个示例的exploit。同时，文章还提到了对漏洞进行修复的补丁分析。
