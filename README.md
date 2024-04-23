@@ -30,15 +30,6 @@
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
 # 安全教程
-[快乐学习之入门IOT（一）](https://mp.weixin.qq.com/s/7cdt5lCmU5ufucUasaKVZA)
-- 摘要: 1. 随着技术的进步，物联网（IoT）设备数量预计将在2022年增至约208亿，传输的数据将超过20ZB。
-2. IoT在CTF中可以看作是pwn+web的结合，需要具备二进制基础和渗透基础，以及一定的电子技术知识。
-3. 初学者通常选择路由器作为入门学习的设备，常见的嵌入式文件系统和操作系统包括内存文件系统、flash文件系统、拓展SD卡文件系统、网络文件系统等。
-4. 固件一般存储在ROM中，提取固件主要通过读取flash芯片，需要掌握一定的数电和模电基础，以及需要一些仪器工具。
-5. 固件分析工具包括binwalk、dd、lzma、unzip等，可以用来提取固件、手动提取文件、压缩/解压缩工具等。
-6. 通过CVE-2022-34597这个简单的命令注入漏洞来讲解分析过程，可以通过借助popen实现的命令注入漏洞点。
-7. IoT的入门并不难，只要有兴趣，愿意探索，就能很快取得成就。
-
 [物联网安全之漏洞挖掘](https://mp.weixin.qq.com/s/JT_HCfSS7bpgutk3v2ApNQ)
 - 摘要: 该段落要求以新闻评论的格式，对发送的文字内容进行简短的总结摘要，分段列出，不超过5点。如果需要ppt，可以在后台回复pdf进行下载。请用中文回答。
 
@@ -142,6 +133,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Juniper SRX远程代码执行漏洞复现分析](https://mp.weixin.qq.com/s/zJJHFjmLqCtcbahJYfoyaw)
+- 摘要: 1. 近日，Juniper Networks发布安全公告，EX系列和SRX系列（EX交换机和SRX防火墙设备）上的Junos OS的J-Web中的两个PHP外部变量修改漏洞允许未经身份验证的基于网络的攻击者控制某些重要的环境变量。
+2. 威胁行为者可以发送特制请求来修改某些PHP环境变量或通过J-Web上传任意文件，无需任何身份验证即可成功利用上述问题。
+3. 本文以SRX防火墙为例对这两个漏洞进行分析和复现，受漏洞影响的设备型号详细列出。
+4. 通过未授权文件上传漏洞和环境变量注入问题，攻击者可以获取目标设备的配置信息，包括用户密码等信息，进而获得远程shell。
+5. 尽管这些漏洞单独看每个评分都不高，但是将多个漏洞联合起来就可以实现远程代码执行，危害较大。目前官方已经发布了安全补丁和相关缓解措施，建议用户即时更新。
+
 [Palo Alto - Putting The Protecc In GlobalProtect (CVE-2024-3400)](https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/)
 - 摘要: 原文摘要已经非常详尽，新的上下文并未提供额外的信息，因此无需修改原有摘要。
 
@@ -203,7 +201,7 @@ https://github.com/ea/lytro_unlock
 [Cisco IOS XE CVE-2023-20198: Deep Dive and POC – Horizon3.ai](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
 - 摘要: 这篇文章是对之前一篇文章的跟进，探讨了影响思科IOS XE的CVE-2023-20273和CVE-2023-20198的补丁，并确定了攻击者可能利用这些漏洞的一些途径。通过SECUINFRA FALCON TEAM的蜜罐，我们对这些漏洞有了更深入的了解。文章介绍了一个绕过认证的示例请求，以及如何利用该漏洞创建一个具有最高权限的用户。文章指出思科修复这个漏洞的方法有些不寻常，他们本应该修复路径解析漏洞，而不是添加一个新的头部。这让我们怀疑是否还有其他可以通过这种方法访问的隐藏端点。
 
-https://mp.weixin.qq.com/s/zJJHFjmLqCtcbahJYfoyaw
+
 
 [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
 
