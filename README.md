@@ -63,6 +63,11 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[Security Research & Insights](https://binarly-io.webflow.io/articles)
+- 摘要: 1、2023年3月3日，Alex Matrosov揭示了Black Lotus UEFI Bootkit的秘密。
+2、探讨了检测和分析rootkits和bootkits的历史和挑战。
+3、深入研究了高级威胁分析的世界。
+
 https://blog.attify.com/
 - 摘要: 摘要为空
 
