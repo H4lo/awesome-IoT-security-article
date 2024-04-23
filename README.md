@@ -302,6 +302,16 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[Intel BMC firmware lighttpd vulnerability](https://binarly-io.webflow.io/advisories/brly-2024-002)
+- 摘要: 原文摘要已经非常详细和准确，新的上下文并未提供额外的信息，因此无需修改原文摘要。以下是原文摘要：
+
+1. Binarly REsearch团队发现了Intel BMC固件的web服务器组件中存在堆越界读取漏洞，可能使攻击者从Lighttpd进程内存中窃取敏感信息。
+2. 该漏洞影响了Intel固件，Binarly团队已确认其影响。
+3. 攻击者可以利用这个漏洞读取Lighttpd Web服务器进程的内存，可能导致敏感数据泄露，如内存地址，这可以用来绕过如ASLR等安全机制。
+4. Lighttpd 1.4.45在HTTP请求解析逻辑中存在缺陷，如果收到的请求包含多个If-Modified-Since头，web服务器会比较它们的值是否相等，响应状态码取决于此检查的结果。
+5. 攻击者可以通过发送大量请求来利用这个漏洞，如果返回的响应状态码不等于400，就意味着从Lighttpd进程内存中窃取了值0x00216a38。
+6. 这个漏洞在Lighttpd 1.4.51中已经修复，建议使用最新的稳定版本。
+
 [Your printer is not your printer ! - Hacking Printers at Pwn2Own Part II | DEVCORE](https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2-en/)
 - 摘要: 根据提供的新背景信息，我们可以对原始摘要进行完善。
 
