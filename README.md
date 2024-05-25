@@ -34,6 +34,9 @@
 ![img](./img/zsxq.jpg)
 
 # 安全教程
+https://forum.butian.net/
+- 摘要: 摘要为空
+
 [物联网安全之漏洞挖掘](https://mp.weixin.qq.com/s/JT_HCfSS7bpgutk3v2ApNQ)
 - 摘要: 该段落要求以新闻评论的格式，对发送的文字内容进行简短的总结摘要，分段列出，不超过5点。如果需要ppt，可以在后台回复pdf进行下载。请用中文回答。
 
