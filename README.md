@@ -29,6 +29,10 @@
 
 - 旧的文章项目地址：https://github.com/H4lo/IOT_Articles_Collection
 
+
+- 加入我的知识星球一起学习交流：
+![img](./img/zsxq.jpg)
+
 # 安全教程
 [物联网安全之漏洞挖掘](https://mp.weixin.qq.com/s/JT_HCfSS7bpgutk3v2ApNQ)
 - 摘要: 该段落要求以新闻评论的格式，对发送的文字内容进行简短的总结摘要，分段列出，不超过5点。如果需要ppt，可以在后台回复pdf进行下载。请用中文回答。
@@ -671,6 +675,13 @@ vulmon: https://vulmon.com/vulnerabilitydetails?qid=CVE-2022-1040
 synk vulndb：https://snyk.io/vuln/search?q=log4j&type=any
 
 # 其他
+[数百万物联网设备面临 Cinterion 调制解调器漏洞的风险](https://mp.weixin.qq.com/s/esLMSYos5SGnE1N19m4y4w)
+- 摘要: 1. 物联网技术提供商Telit Cinterion的调制解调器存在多个漏洞，对工业、医疗保健、汽车、金融和电信领域的数百万物联网设备构成威胁。
+2. 这些漏洞包括用户应用程序和调制解调器集成的OEM捆绑固件中存在的远程代码执行和未经授权的权限升级缺陷。
+3. 最严重的漏洞是内存堆溢出，攻击者可以通过特制的短信在受影响的设备上远程执行任意命令。
+4. 研究人员去年11月向Telit Cinterion报告了这些漏洞，尽管该公司已针对部分漏洞发布了补丁，但并非所有漏洞都已得到解决，导致数百万台设备仍面临风险。
+5. 为了减轻潜在威胁，建议组织禁用非必要的短信功能、使用私有接入点名称、控制对设备的物理访问，并定期进行安全审核和更新。
+
 [Flatlined: Analyzing Pulse Secure Firmware and Bypassing Integrity Checking - Eclypsium](https://eclypsium.com/blog/flatlined-analyzing-pulse-secure-firmware-and-bypassing-integrity-checking/)
 - 摘要: 原文摘要已经非常详尽，新的背景信息并未提供额外的有用信息，因此无需修改原文摘要。
 
