@@ -133,6 +133,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[思科企业级路由器0day漏洞挖掘](https://mp.weixin.qq.com/s/2rT83Bdd26BRIKJHTbWVSw)
+- 摘要: 1. 本文主要讨论了如何挖掘思科企业级路由器的0day漏洞。作者分享了他在今年2月份对美国思科RV系列部分型号的企业级网关路由器进行的漏洞挖掘经验，并获得了多个中高危的CVE漏洞编号。
+2. 文章中详细介绍了五个漏洞的细节以及相关漏洞挖掘经验，包括未授权任意文件上传漏洞、命令注入漏洞等。
+3. 作者还提供了一些漏洞利用的攻击报文和攻击演示，以及思科官方的安全通告链接。
+4. 文章最后，作者分享了一个内部已知的命令注入漏洞，并提供了绕过转义操作的方法和攻击报文。
+5. 作者希望这篇文章能够帮助刚入门IoT安全，想要挖洞但不知如何入手的人。
+
 [OOB Memory Read: Netscaler ADC and Gateway](https://bishopfox.com/blog/netscaler-adc-and-gateway-advisory)
 - 摘要: 1. Citrix NetScaler ADC和Gateway组件存在一个漏洞，该漏洞可能使未经授权的攻击者远程获取配置为网关或AAA虚拟服务器的NetScaler设备的信息。
 2. 这个漏洞允许攻击者从内存中恢复数据，尽管在大多数情况下没有返回任何有价值的信息，但在对Bishop Fox Cosmos客户的测试中，观察到了泄露之前HTTP请求的POST请求体的情况。
