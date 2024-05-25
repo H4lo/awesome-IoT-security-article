@@ -133,6 +133,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[OOB Memory Read: Netscaler ADC and Gateway](https://bishopfox.com/blog/netscaler-adc-and-gateway-advisory)
+- 摘要: 1. Citrix NetScaler ADC和Gateway组件存在一个漏洞，该漏洞可能使未经授权的攻击者远程获取配置为网关或AAA虚拟服务器的NetScaler设备的信息。
+2. 这个漏洞允许攻击者从内存中恢复数据，尽管在大多数情况下没有返回任何有价值的信息，但在对Bishop Fox Cosmos客户的测试中，观察到了泄露之前HTTP请求的POST请求体的情况。
+3. 为了解决这个问题，需要按照Citrix安全公告CTX584986中指定的修复指南尽快安装更新的软件。
+4. NetScaler ADC和Gateway产品存在一个未经认证的越界内存读取漏洞，可以利用这个漏洞捕获设备进程内存中的信息，包括HTTP请求体。
+5. 该漏洞的CVE ID已经更新为CVE-2023-6549，因为它和原来的拒绝服务漏洞一样，都可以通过同样的修复方法来解决。
+
 https://forum.butian.net/share/3000
 - 摘要: 摘要为空
 
