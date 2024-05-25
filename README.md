@@ -133,6 +133,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+https://forum.butian.net/share/3000
+- 摘要: 摘要为空
+
 [TPLink 中继器设备命令注入漏洞分析及复现](https://mp.weixin.qq.com/s/Hayfe1gxRl_Clk7L8DIEZg)
 - 摘要: 1. 在分析TPlink中继器设备（以TL-WPA8630为例）时，发现了两处可以利用的命令注入和栈溢出漏洞。
 2. 这两个漏洞存在于处理admin/powerline的sub_40A918函数中，涉及到plc_device对应的key参数和plc_add对应的devicePwd参数。
