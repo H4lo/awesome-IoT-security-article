@@ -390,6 +390,15 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[Exploiting Healthcare Supply Chain Security: Merge DICOM Toolkit](https://www.nozominetworks.com/blog/exploiting-healthcare-supply-chain-security-merge-dicom-toolkit)
+- 摘要: 原文摘要已经非常详尽，新的背景信息并未提供额外的有用信息，因此无需修改原文摘要。以下是原文摘要：
+1. Merge DICOM Toolkit是一款由Merge开发的软件库，用于处理和操作医疗图像数据，确保数据的精确和安全。
+2. 该工具包的关键功能包括无缝读取和写入DICOM文件，以及数据操作能力，可以提取、修改和更新DICOM属性，如患者信息、图像参数或采集数据。
+3. Nozomi Networks Labs团队在对Merge DICOM Toolkit进行安全研究时，发现了三个安全漏洞，这些漏洞可能通过读取DICOM文件或处理DICOM网络数据包等看似无害的操作被利用，导致DICOM服务的DDoS崩溃。
+4. 这些漏洞可能会影响到医疗设备（如超声、MRI或CT机器）的安全性，如果设备使用了易受攻击的Merge DICOM Toolkit C/C++版本，恶意攻击者可能会利用这些漏洞触发设备崩溃。
+5. 为了应对我们的发现，Merge开发了新的Merge DICOM Toolkit C/C++ SDK v5.18软件版本，修复了我们发现的所有漏洞。鉴于这些问题可能对医疗基础设施产生的影响，我们强烈建议检查您的医疗软件是否使用了这个库的易受攻击版本，如果是的话，更新到最新的v5.18版本。
+6. 我们的研究结果再次提醒人们，即使在医疗行业，软件供应链的安全也是关键元素，应得到适当的保护，以确保关键基础设施的安全。我们感谢Merge在我们的协调负责任披露过程中的积极响应和合作。
+
 [Intel BMC firmware lighttpd vulnerability](https://binarly-io.webflow.io/advisories/brly-2024-002)
 - 摘要: 原文摘要已经非常详细和准确，新的上下文并未提供额外的信息，因此无需修改原文摘要。以下是原文摘要：
 
