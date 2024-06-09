@@ -143,6 +143,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Kerio Mailbox Takeover](https://ssd-disclosure.com/ssd-advisory-kerio-mailbox-takeover/)
+- 摘要: 1. 用户通过利用文件上传功能上传含有任意JavaScript代码的.html类型文件，该文件随后保存在服务器中。
+2. 攻击者会编写并发送包含恶意URL的电子邮件给受害者。
+3. 供应商已在2023年1月17日被通知，但尚未提供是否正在修复或处理的任何指示。
+4. KerioConnect处理HTML附件的方式存在漏洞，允许攻击者将任意JavaScript注入用户正在查看的消息，这可能使攻击者完全控制其邮箱。
+5. 运行JavaScript代码可以用来完全接管受害者的邮箱，可以读取、发送电子邮件以及更改用户设置。
+
 [CVE/CVE-2024-33788 at main · ymkyu/CVE](https://github.com/ymkyu/CVE/tree/main/CVE-2024-33788)
 - 摘要: 1. 文档中提供了所有可用的限定符。
 2. 可以使用保存的搜索来更快地过滤结果。
