@@ -536,6 +536,16 @@ https://mp.weixin.qq.com/s/HwU7rgjhoCsJR0XQAoyHvw
 http://xdxd.love/2015/08/24/逆向路由器固件之解包/
 
 # 无线电安全
+[reblog/cve-2024-0230/README.md at main · skysafe/reblog](https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md)
+- 摘要: 1. Android、Linux、macOS、iOS和Windows中的蓝牙漏洞可以被利用来配对虚拟蓝牙键盘并注入按键，无需用户确认。
+2. Magic Keyboard可以被利用来通过Lightning端口或未经认证的蓝牙提取蓝牙链接密钥。如果未启用锁定模式，链接密钥也可以从配对的Mac上通过USB读取。
+3. 2023年1月9日观察到Magic Keyboard的固件更新，这些更新似乎已经缓解了通过Lightning和蓝牙对Magic Keyboard进行的CVE-2024-0230攻击。
+4. 多个操作系统中的蓝牙堆栈允许攻击者配对虚拟蓝牙键盘，无需认证或用户确认。然后，攻击者可以注入按键以执行用户的操作，只要这些操作不需要密码或生物识别认证。
+5. 易受攻击的设备支持键盘启动的配对，并且不需要经过认证的配对。因此，键盘（或模拟键盘）可以在无需用户确认的情况下与易受攻击的设备配对。这可能导致强制配对和按键注入。
+6. Magic Keyboard的蓝牙链接密钥可以通过几种方式提取：通过Lightning端口在带外配对后，通过未经认证的蓝牙，或从Mac的USB端口。后一种方法需要知道键盘的蓝牙地址和序列号，并且可以通过macOS的锁定模式来缓解。
+7. 攻击者可以通过在Lightning/USB或未经认证的蓝牙上写入带外配对数据，将Magic Keyboard与不同的主机配对。一旦写入配对数据，Magic Keyboard将连接到攻击者配置的主机。
+8. 各种Linux发行版已经发布了针对CVE-2023-45866漏洞的补丁，尽管提供的列表并不详尽。
+
 [技术前瞻｜mqtt攻击面和挖掘思路浅析](https://mp.weixin.qq.com/s/16V1JLcLaakCcMHjzOBbRA)
 - 摘要: 本文主要分析了物联网设备中常见的MQTT协议及其潜在的安全风险。MQTT是一种基于TCP/IP协议栈构建的异步通信消息协议，广泛应用于物联网设备中。文章首先介绍了MQTT协议的基本构成和工作原理，然后分析了开源项目Mosquitto的实现方式和可能存在的安全漏洞。文章还提到了MQTT协议的两大版本v3和v5的特点，以及一些历史上的漏洞案例。最后，文章提出了一些挖掘MQTT协议攻击面的思路和方法，包括代码审计和Fuzz测试等。
 
