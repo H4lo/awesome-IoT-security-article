@@ -369,6 +369,13 @@ https://mp.weixin.qq.com/s/efrcXS_uiXp0LzUaaEJ-MA
 https://mp.weixin.qq.com/s/tUikU0U-FCo33kWsmHTCIQ
 
 ## 摄像头漏洞分析
+[EyeSpy: enumerate and gain access to IP cameras via RTSP](https://meterpreter.org/eyespy-enumerate-and-gain-access-to-ip-cameras-via-rtsp/)
+- 摘要: 1. EyeSpy是由Miiden开发的一款工具，主要利用PowerShell在Windows环境中进行渗透测试和研究。
+2. EyeSpy的主要功能是通过RTSP枚举和获取IP摄像头的访问权限。
+3. EyeSpy提供了多种命令行选项，包括扫描开放的RTSP端口，检查是否需要身份验证，以及尝试常见的凭证喷洒攻击等。
+4. EyeSpy还可以在指定的IP范围内进行全自动扫描，找到开放的端口，并使用常见和默认的凭证组合对每个路径进行喷洒。
+5. EyeSpy还提供了帮助菜单，显示使用说明和示例。
+
 [Exploiting: Buffer overflow in Xiongmai DVRs | ret2.me](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 
 https://mp.weixin.qq.com/s/K-Zu1M5JVhzT_xb7rb1l0Q
