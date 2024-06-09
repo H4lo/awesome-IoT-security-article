@@ -574,6 +574,9 @@ https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-UWB-Real-Time-Loc
 [Hacking Bluetooth to Brew Coffee from GitHub Actions: Part 1 - Bluetooth Investigation | grack](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1)
 
 # 硬件安全
+[Downtown Doug Brown](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
+- 摘要: 原文摘要已经非常详细和准确，新的上下文并未提供额外的信息，因此无需修改原有摘要。
+
 [Intro to Embedded RE Part 1: Tools and Series Overview](https://voidstarsec.com/blog/intro-to-embedded-part-1)
 - 摘要: 这篇博客提供了逆向工程嵌入式系统所需的工具概述。它涵盖了硬件和软件工具，包括树莓派、逻辑分析仪、万用表、电源、面包板和焊接铁。文章还提到了其他工具，如硅垫、显微镜、FTDI扩展板、示波器、ChipWhisperer、Ghidra、Binwalk、Kaitai Struct和Pulseview/SigRok。该系列将涵盖构建Ghidra开发环境、UART发现和固件提取、理解Ghidra中的内存映射和地址空间、通过SPI和USB进行固件提取、用于固件分析的Kaitai Struct、I2C和并行闪存提取、PCode仿真以及JTAG概述和应用等主题。系列中的每篇文章都有特定的重点，并提供概述、目标、工具、硬件/软件拆解、结论和资源。文章还包含一个指向GitHub存储库的链接，用于访问与每个目标相关的材料。该系列旨在为对学习逆向工程嵌入式系统感兴趣的硬件和软件工程师提供一条路线图。
 
