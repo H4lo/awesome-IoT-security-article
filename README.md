@@ -34,6 +34,14 @@
 ![img](./img/zsxq.jpg)
 
 # 安全教程
+[Binary Exploitation Notes](https://ir0nstone.gitbook.io/notes)
+- 摘要: 1、该博客主要包含二进制利用笔记和数学笔记两大部分内容。
+2、二进制利用笔记包括作者学习的大部分内容，并提供易受攻击的二进制文件供读者自行尝试。
+3、数学笔记分布在Notion和博客两个地方，因为Notion的数学支持功能更强大。
+4、作者在其他平台上的用户名通常为ir0nstone，其中可能感兴趣的账户包括HackTheBox账户和Twitter账户。
+5、如果这个资源对你有所帮助，可以考虑在buymeacoffee上支持作者。
+6、感谢GitBook对作者的支持。
+
 https://forum.butian.net/
 - 摘要: 摘要为空
 
