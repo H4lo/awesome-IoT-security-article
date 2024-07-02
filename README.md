@@ -88,6 +88,10 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[News Archives](https://security.humanativaspa.it/category/news/)
+- 摘要: 1、该网站使用cookies来提供最相关的用户体验，记住用户的偏好和重复访问。
+2、点击“接受”按钮，用户同意使用所有的cookies。
+
 [taszk.io labs](https://labs.taszk.io/)
 - 摘要: 1. TASZK安全实验室的研究页面包含了协调披露的建议、原创研究工作的出版物以及偶尔的信息安全战争故事和思考。
 2. 实验室最近的研究工作包括全链路基带漏洞的研究，展示了新的研究工具，并探索了三星和联发科无线接口堆栈的细胞处理器和应用处理器之间的相互连接组件。
