@@ -436,6 +436,18 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[(Research) Exploiting HTTP Parsers Inconsistencies](https://rafa.hashnode.dev/exploiting-http-parsers-inconsistencies)
+- 摘要: 1. 该研究关注在各种网络技术中HTTP解析器的不一致性，这可能导致潜在的安全漏洞。
+2. 研究揭示了由于在网络服务器中对路径名进行操作，特别是使用trim()或strip()函数，可能产生的可利用的漏洞，这可能使攻击者能够绕过反向代理和负载均衡器中的安全规则。
+3. 研究还探讨了Nginx（一种强大的网络服务器和反向代理）在重写或阻止HTTP消息方面的安全威胁，重点关注由HTTP路径名部分中的特定字符串或正则表达式触发的规则。
+4. 研究展示了不同语言中trim()函数的不一致性如何导致HTTP Desync攻击，以及如何使用这些攻击绕过Nginx ACL规则与Node.js，Flask，Spring Boot和PHP-FPM集成。
+5. 研究以如何防止这些问题的建议结束，例如在Nginx ACL规则上使用~表达式而不是=表达式，并提供了绕过AWS WAF ACL的见解。
+6. 研究还揭示了AWS WAF ACL中可能存在的安全漏洞，这是由于像Node.js和Flask这样的网络服务器中的“行折叠”行为，可以被利用来绕过安全措施。
+7. 研究进一步探讨了由于路径名解释错误而在Spring Boot，Flask和PHP等流行服务器和框架中存在的服务器端请求伪造漏洞。
+8. 研究提供了利用场景的例子，并建议开发人员需要谨慎信任反向代理，并确保正确验证HTTP路径名以防止安全风险。
+9. 研究还深入探讨了与缓存服务器相关的潜在安全风险，特别是与AWS S3桶相关的问题。它强调了由于主机头解释不一致而产生的漏洞，这可能导致缓存中毒。
+10. 研究最后强调，使用有效验证和清理HTTP请求的反向代理的重要性，因为这可以显著提高网络应用程序的安全性。
+
 [Exploiting Healthcare Supply Chain Security: Merge DICOM Toolkit](https://www.nozominetworks.com/blog/exploiting-healthcare-supply-chain-security-merge-dicom-toolkit)
 - 摘要: 原文摘要已经非常详尽，新的背景信息并未提供额外的有用信息，因此无需修改原文摘要。以下是原文摘要：
 1. Merge DICOM Toolkit是一款由Merge开发的软件库，用于处理和操作医疗图像数据，确保数据的精确和安全。
