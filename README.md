@@ -158,6 +158,14 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[CVE-2024-22058 Ivanti Landesk LPE](https://mantodeasecurity.de/en/2024/05/cve-2024-22058-ivanti-landesk-lpe/)
+- 摘要: 1. 本文描述了在Ivanti LanDesk软件中发现的一个漏洞，以及如何利用它通过任意代码执行实现本地权限升级。Ivanti在2024年5月28日的咨询中披露了这个漏洞，编号为CVE-2024-22058。
+2. 这个漏洞影响到Ivanti Endpoint Manager (EPM) 2021.1 SU5及之前的版本，但在EPM 2022及以后的版本中不存在。
+3. 当客户端通过9535/TCP端口与LanDesk应用程序建立连接后，子程序sub_4A7A20开始接收数据的过程。在第一次调用ConnectionReceiver时，应用程序从客户端接收总共12字节的数据，这些数据类似于数据包头。
+4. 如果检查成功，它将比较下一个DWORD，可以假设它存储数据包体的大小。然后，发出另一个调用ConnectionReceiver的命令，数据包大小现在是函数参数之一。
+5. 通过设置操作码值为0x15，可以到达易受攻击的代码。这将导致执行流到达loc_463185（跳转表案例21），它调用sub_472F80，有两个函数参数。
+6. 如果用户指定的大小字段中的值大于3，则通过调用strncpy进行字符串复制操作。由于可以使用用户控制的大小字段来指定复制的字符数量，并且没有边界检查，因此很容易溢出这个数组。
+
 [Kerio Mailbox Takeover](https://ssd-disclosure.com/ssd-advisory-kerio-mailbox-takeover/)
 - 摘要: 1. 用户通过利用文件上传功能上传含有任意JavaScript代码的.html类型文件，该文件随后保存在服务器中。
 2. 攻击者会编写并发送包含恶意URL的电子邮件给受害者。
