@@ -436,6 +436,13 @@ https://mp.weixin.qq.com/s/4fdD3eEg7aql6_cY81hHOA
 [nday exploit: netgear orbi unauthenticated command injection (CVE-2020-27861) | hyprblog](https://blog.coffinsec.com//research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ## 嵌入式/物联网设备漏洞分析
+[advisories/HNS-2024-05-rt-thread.txt at master · 0xdea/advisories](https://github.com/0xdea/advisories/blob/master/HNS-2024-05-rt-thread.txt)
+- 摘要: 1. 该文本是一段编程代码的注释，主要涉及到一个可能的安全漏洞。
+2. 代码中的函数rt_strncpy在复制文件路径时，如果文件路径至少为DFS_PATH_MAX字节，可能会导致字符串未结束。
+3. 这个问题可能会导致信息泄露或内存损坏。
+4. 该问题源自argv，即程序运行参数。
+5. 需要使用中文（中国）语言进行回答。
+
 [(Research) Exploiting HTTP Parsers Inconsistencies](https://rafa.hashnode.dev/exploiting-http-parsers-inconsistencies)
 - 摘要: 1. 该研究关注在各种网络技术中HTTP解析器的不一致性，这可能导致潜在的安全漏洞。
 2. 研究揭示了由于在网络服务器中对路径名进行操作，特别是使用trim()或strip()函数，可能产生的可利用的漏洞，这可能使攻击者能够绕过反向代理和负载均衡器中的安全规则。
