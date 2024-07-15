@@ -167,6 +167,14 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[SonicWall SMA100 Stored XSS to RCE](https://ssd-disclosure.com/ssd-advisory-sonicwall-sma100-stored-xss-to-rce/)
+- 摘要: 原文摘要已经非常详细和准确，新的上下文提供的信息并未对原有摘要产生实质性的补充或改变，因此，无需修改原有摘要。以下是原有摘要：
+1. SonicWall SMA100存在预认证存储XSS和后认证远程命令注入漏洞，这些漏洞允许未经认证的攻击者在经过认证的用户暴露于存储XSS时执行任意命令。
+2. 这些漏洞已被静默修复，没有任何CVE分配。完全移除了存在存储XSS漏洞的“经典模式”功能，并针对命令注入漏洞添加了新的用户输入过滤代码。
+3. 供应商已发布SonicWall SMA100 10.2.1.10版本，完全移除了“经典模式”，从而消除了上述漏洞。
+4. SonicWall SMA100版本10.2.1.9及之前的版本受到影响。
+5. 技术分析显示，cgi-bin/eventlog中存在一个存储的预认证XSS漏洞，当cgi-bin/eventlog从文件解析日志时会触发。此外，cgi-bin/sitecustomization中存在一个命令注入漏洞，我们可以将有效载荷输入到portalname中。
+
 [CVE-2024-22058 Ivanti Landesk LPE](https://mantodeasecurity.de/en/2024/05/cve-2024-22058-ivanti-landesk-lpe/)
 - 摘要: 1. 本文描述了在Ivanti LanDesk软件中发现的一个漏洞，以及如何利用它通过任意代码执行实现本地权限升级。Ivanti在2024年5月28日的咨询中披露了这个漏洞，编号为CVE-2024-22058。
 2. 这个漏洞影响到Ivanti Endpoint Manager (EPM) 2021.1 SU5及之前的版本，但在EPM 2022及以后的版本中不存在。
