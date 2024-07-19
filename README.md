@@ -167,6 +167,9 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2](https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera)
+- 摘要: 原文摘要已经非常详细和准确，新的上下文并未提供额外的信息，因此无需修改原有的摘要。
+
 [SonicWall SMA100 Stored XSS to RCE](https://ssd-disclosure.com/ssd-advisory-sonicwall-sma100-stored-xss-to-rce/)
 - 摘要: 原文摘要已经非常详细和准确，新的上下文提供的信息并未对原有摘要产生实质性的补充或改变，因此，无需修改原有摘要。以下是原有摘要：
 1. SonicWall SMA100存在预认证存储XSS和后认证远程命令注入漏洞，这些漏洞允许未经认证的攻击者在经过认证的用户暴露于存储XSS时执行任意命令。
