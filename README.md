@@ -88,6 +88,11 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[NVISO Labs](https://blog.nviso.eu/)
+- 摘要: 文章摘要：
+1、在当今的数字化环境中，远程管理和监控（RMM）工具对于寻求简化IT运营、提高生产力和确保无缝远程支持的组织来说已经变得不可或缺。
+2、然而，在我们的威胁狩猎和事件响应工作中，我们经常看到这些工具，虽然有益，但如果管理不当，也可能带来重大的安全风险。
+
 [Shielder](https://www.shielder.com/blog/)
 - 摘要: 1. 近期公开的针对Orthanc DICOM服务器的CVE-2023-33466可以被用来实现远程代码执行。
 2. 由于没有可用的概念验证，我们编写了一个。
