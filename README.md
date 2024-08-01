@@ -172,6 +172,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[[CVE-2024-40617] Fujitsu M2M GW1500 : From M2M to M2M2P0wn](https://medium.com/@eddy.huynh/cve-2024-40617-fujitsu-m2m-gw1500-from-m2m-to-m2m2p0wn-32c4a2b5da02)
+- 摘要: 1. 信息安全专家在对Fujitsu M2M GW1500设备进行渗透测试时，发现了一个可以提升权限的漏洞（CVE-2024-40617）。
+2. 他们通过Fujitsu自定义shell的路径遍历攻击，成功访问了整个Linux目录，进而获取了root权限。
+3. 他们还发现，即使没有管理员权限，也可以通过物理重置设备并使用默认密码来获取管理员账户凭证。
+4. Fujitsu团队已经对此设备进行了修补，建议用户根据Fujitsu的建议更新设备。固件版本在V02L13C01A之前的都存在漏洞，需要更新到此版本之后。
+5. 尽管Fujitsu没有漏洞披露政策，但他们在接到漏洞报告后反应迅速，对此表示感谢。同时强调，拥有漏洞披露政策的重要性。
+
 [Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2](https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera)
 - 摘要: 原文摘要已经非常详细和准确，新的上下文并未提供额外的信息，因此无需修改原有的摘要。
 
