@@ -88,6 +88,11 @@ https://www.4hou.com/search-post?keywords=深入考察JSON在互操作性方面�
 https://github.com/KathanP19/HowToHunt
 
 # 安全论坛|博客
+[SySS Tech Blog](https://blog.syss.com/)
+- 摘要: 1. 随着时间的推移，各组织将越来越多的IT资产转移到云端。
+2. 更重要的是，Azure云在大多数公司的IT结构中起着至关重要的作用。
+3. 这主要是因为Azure云的整合能力。
+
 [NVISO Labs](https://blog.nviso.eu/)
 - 摘要: 文章摘要：
 1、在当今的数字化环境中，远程管理和监控（RMM）工具对于寻求简化IT运营、提高生产力和确保无缝远程支持的组织来说已经变得不可或缺。
