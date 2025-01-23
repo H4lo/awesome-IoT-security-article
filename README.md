@@ -177,6 +177,13 @@ https://xz.aliyun.com/
 
 # 漏洞分析
 ## 网络设备漏洞分析
+[CVE-2024-52320 and More: Planet Switches Expose Networks to Attack](https://securityonline.info/cve-2024-52320-and-more-planet-switches-expose-networks-to-attack/)
+- 摘要: 1. Claroty研究员Tomer Goldschmidt最近的报告中揭示了Planet WGS-804HPT工业交换机中的三个关键漏洞，这些交换机广泛应用于建筑和家庭自动化系统。
+2. 这些交换机对于物联网设备、IP监控摄像头和无线局域网等网络应用至关重要，但被发现存在远程代码执行的漏洞。
+3. 这些漏洞强调了积极的固件安全措施的重要性。Goldschmidt详细描述了发现的漏洞，包括整数下溢漏洞、操作系统命令注入漏洞和基于堆栈的缓冲区溢出漏洞。
+4. 由于无法物理访问交换机，Team82利用开源QEMU框架模拟设备的系统组件，这种模拟方法证明是非常有价值的，使团队能够分析固件，发现漏洞，并在受控环境中测试漏洞利用。
+5. Planet Technology已通过发布固件版本1.305b241111并建议用户立即更新来解决这些漏洞。使用这些交换机的组织还应隔离易受攻击的设备，监控设备日志以寻找可疑活动，并定期更新固件以防止已知漏洞的利用。
+
 [Introduction](https://team-envy.gitbook.io/team.envy)
 - 摘要: 1、过去三个月我们对NVR进行了漏洞分析。
 2、我们分析了海康威视、大华、VendorV和群晖等公司的漏洞，发现了与海康威视和大华相关的OEM产品中的弱点。
